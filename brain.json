@@ -1,0 +1,5880 @@
+{
+  "chain1": {
+    "hello": {
+      "there": 4,
+      "how": 2,
+      "i": 1
+    },
+    "how": {
+      "are": 5,
+      "is": 1,
+      "about": 1,
+      "was": 1,
+      "this": 1
+    },
+    "are": {
+      "you": 7,
+      "right": 1,
+      "having": 2,
+      "pretty": 1,
+      "getting": 1,
+      "helping": 1,
+      "here": 1,
+      "funny": 1
+    },
+    "you": {
+      "doing": 3,
+      "there": 1,
+      "good": 1,
+      "for": 2,
+      "like": 2,
+      "very": 1,
+      "about": 1,
+      "tell": 2,
+      "mean": 3,
+      "said": 2,
+      "are": 6,
+      "think": 3,
+      "enjoy": 1,
+      "type": 1,
+      "talk": 1,
+      "have": 2,
+      "can": 1,
+      "want": 2,
+      "taking": 1,
+      "explain": 1,
+      "seem": 1,
+      "learned": 1,
+      "give": 1,
+      "make": 2,
+      "over": 1,
+      "clearly": 1,
+      "find": 1,
+      "up": 1
+    },
+    "i": {
+      "am": 23,
+      "think": 22,
+      "like": 7,
+      "would": 2,
+      "had": 3,
+      "understand": 2,
+      "want": 4,
+      "feel": 2,
+      "agree": 1,
+      "hope": 1,
+      "really": 1,
+      "get": 2,
+      "do": 1,
+      "remember": 1,
+      "did": 1,
+      "say": 3,
+      "appreciate": 1,
+      "find": 1,
+      "will": 1,
+      "can": 1,
+      "should": 1,
+      "dont": 1,
+      "was": 1,
+      "see": 1
+    },
+    "am": {
+      "good": 2,
+      "fine": 2,
+      "okay": 1,
+      "doing": 2,
+      "not": 2,
+      "sorry": 1,
+      "still": 2,
+      "excited": 1,
+      "curious": 1,
+      "a": 1,
+      "learning": 1,
+      "glad": 2,
+      "always": 1,
+      "trying": 1,
+      "starting": 1,
+      "happy": 1,
+      "improving": 1,
+      "ready": 1,
+      "getting": 1
+    },
+    "what": {
+      "is": 5,
+      "do": 4,
+      "are": 2,
+      "you": 8,
+      "should": 2,
+      "kind": 1,
+      "other": 2,
+      "made": 1,
+      "does": 1,
+      "would": 1,
+      "happens": 1,
+      "about": 1
+    },
+    "is": {
+      "up": 2,
+      "going": 3,
+      "it": 1,
+      "really": 1,
+      "your": 1,
+      "a": 15,
+      "something": 2,
+      "talk": 1,
+      "pretty": 1,
+      "important": 1,
+      "exactly": 1,
+      "worth": 2,
+      "on": 1,
+      "actually": 2,
+      "crazy": 1
+    },
+    "yes": {
+      "i": 1
+    },
+    "no": {
+      "i": 1,
+      "way": 1
+    },
+    "there": {
+      "how": 1
+    },
+    "doing": {
+      "today": 1,
+      "well": 1,
+      "my": 1
+    },
+    "well": {
+      "thank": 1
+    },
+    "thank": {
+      "you": 3
+    },
+    "for": {
+      "asking": 1,
+      "saying": 1,
+      "teaching": 1,
+      "sure": 1
+    },
+    "do": {
+      "you": 5,
+      "is": 1,
+      "not": 1,
+      "that": 2
+    },
+    "like": {
+      "to": 4,
+      "a": 3,
+      "talking": 1,
+      "hearing": 1,
+      "when": 2,
+      "you": 1,
+      "how": 1,
+      "learning": 1
+    },
+    "to": {
+      "talk": 2,
+      "know": 1,
+      "do": 2,
+      "hear": 3,
+      "learn": 6,
+      "say": 1,
+      "think": 1,
+      "understand": 3,
+      "me": 3,
+      "get": 1,
+      "use": 1,
+      "teach": 3,
+      "put": 1,
+      "you": 1,
+      "make": 1,
+      "people": 1,
+      "describe": 1,
+      "keep": 1,
+      "sound": 1,
+      "that": 1,
+      "explain": 1,
+      "start": 1
+    },
+    "talk": {
+      "about": 3,
+      "with": 1,
+      "to": 1,
+      "more": 1
+    },
+    "think": {
+      "that": 5,
+      "you": 1,
+      "about": 4,
+      "computers": 1,
+      "games": 1,
+      "of": 1,
+      "it": 1,
+      "we": 1,
+      "talking": 1,
+      "i": 6,
+      "patience": 1,
+      "practice": 1,
+      "this": 1,
+      "thats": 1
+    },
+    "that": {
+      "sounds": 3,
+      "is": 22,
+      "made": 1,
+      "learns": 1,
+      "makes": 2,
+      "idea": 1,
+      "word": 1,
+      "helps": 1,
+      "pretty": 1,
+      "reminds": 1,
+      "one": 1,
+      "kind": 1,
+      "game": 1,
+      "too": 1,
+      "then": 1,
+      "actually": 1
+    },
+    "sounds": {
+      "like": 2,
+      "good": 1
+    },
+    "a": {
+      "good": 7,
+      "great": 2,
+      "lot": 6,
+      "funny": 1,
+      "cool": 1,
+      "fascinating": 1,
+      "small": 1,
+      "favorite": 1,
+      "little": 2,
+      "nice": 1,
+      "pretty": 1,
+      "really": 1,
+      "big": 1,
+      "clever": 1,
+      "fair": 1,
+      "solid": 1,
+      "neat": 1,
+      "helpful": 1
+    },
+    "good": {
+      "idea": 1,
+      "day": 1,
+      "about": 1,
+      "time": 1,
+      "question": 1,
+      "way": 1,
+      "observation": 1,
+      "points": 1,
+      "place": 1,
+      "to": 1,
+      "point": 1
+    },
+    "really": {
+      "interesting": 1,
+      "enjoy": 1,
+      "good": 2,
+      "thats": 1,
+      "fun": 1
+    },
+    "interesting": {
+      "tell": 1,
+      "person": 1,
+      "about": 1
+    },
+    "tell": {
+      "me": 3
+    },
+    "me": {
+      "more": 2,
+      "happy": 1,
+      "new": 2,
+      "the": 1,
+      "think": 1,
+      "and": 1,
+      "know": 1,
+      "understand": 1,
+      "learn": 1,
+      "an": 1,
+      "of": 1,
+      "today": 1,
+      "a": 1,
+      "get": 1
+    },
+    "not": {
+      "sure": 1,
+      "thought": 1,
+      "know": 2,
+      "considered": 1,
+      "perfect": 1,
+      "much": 1
+    },
+    "sure": {
+      "but": 1,
+      "lets": 1
+    },
+    "but": {
+      "i": 3
+    },
+    "would": {
+      "like": 2,
+      "be": 1,
+      "you": 1
+    },
+    "very": {
+      "much": 1
+    },
+    "much": {
+      "for": 1,
+      "just": 1
+    },
+    "saying": {
+      "that": 1
+    },
+    "talking": {
+      "with": 3,
+      "to": 1
+    },
+    "with": {
+      "you": 3,
+      "what": 1,
+      "me": 2,
+      "people": 1,
+      "that": 1
+    },
+    "about": {
+      "this": 2,
+      "you": 2,
+      "that": 9,
+      "next": 1,
+      "before": 1,
+      "it": 2,
+      "what": 1,
+      "some": 1
+    },
+    "your": {
+      "favorite": 1,
+      "day": 1,
+      "opinion": 1,
+      "mind": 1
+    },
+    "favorite": {
+      "thing": 2,
+      "hobby": 1
+    },
+    "thing": {
+      "to": 3,
+      "i": 1
+    },
+    "had": {
+      "a": 1,
+      "not": 2
+    },
+    "day": {
+      "today": 2
+    },
+    "today": {
+      "how": 1
+    },
+    "made": {
+      "me": 1,
+      "you": 1
+    },
+    "happy": {
+      "to": 2
+    },
+    "sorry": {
+      "to": 1
+    },
+    "hear": {
+      "that": 1,
+      "your": 1
+    },
+    "can": {
+      "you": 2,
+      "be": 1,
+      "teach": 1,
+      "figure": 1,
+      "work": 1
+    },
+    "more": {
+      "about": 2,
+      "you": 1,
+      "like": 1,
+      "questions": 1
+    },
+    "understand": {
+      "what": 2,
+      "you": 1,
+      "a": 1,
+      "this": 1
+    },
+    "great": {
+      "question": 1,
+      "point": 1
+    },
+    "want": {
+      "to": 5
+    },
+    "learn": {
+      "more": 1,
+      "new": 1,
+      "about": 1,
+      "something": 1,
+      "faster": 1,
+      "whatever": 1
+    },
+    "was": {
+      "your": 1,
+      "just": 1
+    },
+    "feel": {
+      "good": 1,
+      "that": 1
+    },
+    "this": {
+      "conversation": 3,
+      "out": 1,
+      "better": 1,
+      "is": 2
+    },
+    "lot": {
+      "of": 4,
+      "already": 1,
+      "about": 1
+    },
+    "of": {
+      "fun": 2,
+      "things": 1,
+      "time": 1,
+      "that": 2,
+      "sense": 2,
+      "something": 1,
+      "thing": 1,
+      "looking": 1,
+      "this": 1,
+      "wild": 1,
+      "slaps": 1
+    },
+    "agree": {
+      "with": 1
+    },
+    "still": {
+      "learning": 2
+    },
+    "learning": {
+      "so": 1,
+      "new": 2,
+      "fast": 1,
+      "something": 1,
+      "things": 1
+    },
+    "so": {
+      "please": 1,
+      "far": 1
+    },
+    "please": {
+      "be": 1,
+      "let": 1
+    },
+    "be": {
+      "patient": 1,
+      "a": 1,
+      "fun": 1
+    },
+    "patient": {
+      "with": 1
+    },
+    "should": {
+      "we": 2,
+      "i": 1,
+      "ask": 1,
+      "try": 1
+    },
+    "we": {
+      "talk": 1,
+      "are": 1,
+      "can": 1,
+      "cover": 1,
+      "should": 1
+    },
+    "right": {
+      "about": 1,
+      "now": 1
+    },
+    "funny": {
+      "thing": 1,
+      "ngl": 1
+    },
+    "hope": {
+      "you": 1
+    },
+    "having": {
+      "a": 1,
+      "this": 1
+    },
+    "excited": {
+      "to": 1
+    },
+    "new": {
+      "words": 3,
+      "things": 2
+    },
+    "something": {
+      "i": 1,
+      "new": 2,
+      "wrong": 1,
+      "you": 2,
+      "else": 1
+    },
+    "thought": {
+      "about": 1
+    },
+    "opinion": {
+      "on": 1
+    },
+    "on": {
+      "that": 1,
+      "your": 1
+    },
+    "teaching": {
+      "me": 1
+    },
+    "curious": {
+      "what": 1
+    },
+    "my": {
+      "favorite": 1,
+      "best": 2
+    },
+    "enjoy": {
+      "learning": 1,
+      "doing": 1
+    },
+    "words": {
+      "every": 1,
+      "any": 1
+    },
+    "every": {
+      "day": 2
+    },
+    "cool": {
+      "way": 1,
+      "i": 1
+    },
+    "way": {
+      "to": 4,
+      "of": 1,
+      "thats": 1
+    },
+    "best": {
+      "to": 2
+    },
+    "kind": {
+      "of": 4
+    },
+    "things": {
+      "do": 1,
+      "takes": 1,
+      "because": 1,
+      "to": 1,
+      "step": 1
+    },
+    "computers": {
+      "and": 1
+    },
+    "and": {
+      "technology": 1,
+      "try": 1
+    },
+    "technology": {
+      "are": 1
+    },
+    "pretty": {
+      "interesting": 2,
+      "cool": 1,
+      "fascinating": 1,
+      "well": 1,
+      "funny": 1,
+      "smart": 1
+    },
+    "artificial": {
+      "intelligence": 1
+    },
+    "intelligence": {
+      "is": 1
+    },
+    "fascinating": {
+      "topic": 1,
+      "honestly": 1
+    },
+    "topic": {
+      "to": 1
+    },
+    "small": {
+      "program": 1
+    },
+    "program": {
+      "that": 1
+    },
+    "learns": {
+      "from": 1
+    },
+    "from": {
+      "what": 1
+    },
+    "the": {
+      "more": 1,
+      "smarter": 1,
+      "time": 1,
+      "kind": 1,
+      "hang": 1
+    },
+    "smarter": {
+      "i": 1,
+      "every": 1
+    },
+    "know": {
+      "everything": 1,
+      "that": 1,
+      "if": 1,
+      "a": 1
+    },
+    "everything": {
+      "but": 1
+    },
+    "point": {
+      "i": 1
+    },
+    "games": {
+      "can": 1
+    },
+    "have": {
+      "a": 1,
+      "taught": 1
+    },
+    "hobby": {
+      "or": 1
+    },
+    "or": {
+      "activity": 1
+    },
+    "hearing": {
+      "about": 1
+    },
+    "other": {
+      "people": 1,
+      "topics": 1
+    },
+    "people": {
+      "enjoy": 1,
+      "helps": 1
+    },
+    "sometimes": {
+      "learning": 1,
+      "i": 1
+    },
+    "takes": {
+      "a": 1
+    },
+    "little": {
+      "bit": 2,
+      "detail": 1
+    },
+    "bit": {
+      "of": 1,
+      "better": 1
+    },
+    "glad": {
+      "we": 1,
+      "you": 1
+    },
+    "question": {
+      "let": 1
+    },
+    "let": {
+      "me": 2
+    },
+    "get": {
+      "better": 1,
+      "smarter": 1,
+      "what": 1
+    },
+    "better": {
+      "at": 1
+    },
+    "at": {
+      "talking": 1,
+      "it": 1
+    },
+    "makes": {
+      "a": 3,
+      "sense": 1
+    },
+    "teach": {
+      "me": 3
+    },
+    "any": {
+      "time": 1
+    },
+    "time": {
+      "you": 1,
+      "to": 1
+    },
+    "remember": {
+      "what": 1,
+      "that": 1
+    },
+    "try": {
+      "to": 1,
+      "something": 1
+    },
+    "use": {
+      "it": 1
+    },
+    "did": {
+      "not": 1
+    },
+    "always": {
+      "trying": 1
+    },
+    "trying": {
+      "to": 1,
+      "my": 1
+    },
+    "it": {
+      "would": 1,
+      "easy": 1,
+      "going": 1
+    },
+    "fun": {
+      "to": 1
+    },
+    "say": {
+      "strange": 1,
+      "something": 1,
+      "back": 1
+    },
+    "strange": {
+      "things": 1
+    },
+    "because": {
+      "i": 1
+    },
+    "if": {
+      "i": 1
+    },
+    "appreciate": {
+      "you": 1
+    },
+    "taking": {
+      "the": 1
+    },
+    "nice": {
+      "way": 1
+    },
+    "put": {
+      "it": 1
+    },
+    "figure": {
+      "this": 1
+    },
+    "out": {
+      "together": 1
+    },
+    "does": {
+      "that": 1
+    },
+    "word": {
+      "mean": 1
+    },
+    "mean": {
+      "to": 1
+    },
+    "when": {
+      "you": 1,
+      "conversations": 1,
+      "learning": 1
+    },
+    "explain": {
+      "things": 1,
+      "it": 1
+    },
+    "helps": {
+      "me": 2
+    },
+    "make": {
+      "sense": 1,
+      "some": 1,
+      "it": 1
+    },
+    "sense": {
+      "here": 1
+    },
+    "seem": {
+      "like": 1
+    },
+    "learned": {
+      "recently": 1
+    },
+    "find": {
+      "that": 1,
+      "most": 1
+    },
+    "describe": {
+      "it": 1
+    },
+    "starting": {
+      "to": 1
+    },
+    "give": {
+      "me": 1
+    },
+    "an": {
+      "example": 1
+    },
+    "example": {
+      "of": 1
+    },
+    "conversations": {
+      "go": 1
+    },
+    "go": {
+      "in": 1,
+      "do": 1
+    },
+    "in": {
+      "unexpected": 1,
+      "this": 1
+    },
+    "unexpected": {
+      "directions": 1
+    },
+    "reminds": {
+      "me": 1
+    },
+    "said": {
+      "earlier": 1
+    },
+    "patience": {
+      "is": 1
+    },
+    "important": {
+      "when": 1
+    },
+    "keep": {
+      "chatting": 1
+    },
+    "chatting": {
+      "with": 1
+    },
+    "getting": {
+      "at": 1,
+      "the": 1
+    },
+    "some": {
+      "really": 1,
+      "more": 1
+    },
+    "sound": {
+      "more": 1
+    },
+    "over": {
+      "time": 1
+    },
+    "exactly": {
+      "the": 1
+    },
+    "practice": {
+      "makes": 1
+    },
+    "big": {
+      "difference": 1
+    },
+    "back": {
+      "to": 1
+    },
+    "perfect": {
+      "but": 1
+    },
+    "clever": {
+      "way": 1
+    },
+    "looking": {
+      "at": 1
+    },
+    "will": {
+      "remember": 1
+    },
+    "taught": {
+      "me": 1
+    },
+    "fair": {
+      "point": 1,
+      "i": 1
+    },
+    "happens": {
+      "next": 1
+    },
+    "next": {
+      "in": 1
+    },
+    "going": {
+      "so": 1,
+      "pretty": 1
+    },
+    "worth": {
+      "thinking": 1,
+      "remembering": 1
+    },
+    "thinking": {
+      "about": 2
+    },
+    "work": {
+      "with": 1
+    },
+    "helping": {
+      "me": 1
+    },
+    "solid": {
+      "answer": 1
+    },
+    "topics": {
+      "should": 1
+    },
+    "ready": {
+      "to": 1
+    },
+    "whatever": {
+      "you": 1
+    },
+    "neat": {
+      "little": 1
+    },
+    "clearly": {
+      "know": 1
+    },
+    "ask": {
+      "more": 1
+    },
+    "most": {
+      "interesting": 1
+    },
+    "step": {
+      "by": 1
+    },
+    "by": {
+      "step": 1
+    },
+    "helpful": {
+      "way": 1
+    },
+    "hang": {
+      "of": 1
+    },
+    "easy": {
+      "to": 1
+    },
+    "mind": {
+      "right": 1
+    },
+    "here": {
+      "talking": 1
+    },
+    "place": {
+      "to": 1
+    },
+    "sup": {
+      "what": 1
+    },
+    "up": {
+      "to": 1
+    },
+    "yo": {
+      "hows": 1,
+      "that": 1
+    },
+    "hows": {
+      "it": 1
+    },
+    "just": {
+      "chilling": 1,
+      "thinking": 1
+    },
+    "chilling": {
+      "what": 1
+    },
+    "lol": {
+      "thats": 1,
+      "i": 1,
+      "dude": 1
+    },
+    "thats": {
+      "pretty": 1,
+      "it": 1,
+      "cool": 1,
+      "actually": 2,
+      "fair": 1,
+      "lowkey": 1
+    },
+    "nah": {
+      "i": 2
+    },
+    "dont": {
+      "think": 1
+    },
+    "fr": {
+      "that": 1
+    },
+    "actually": {
+      "kind": 1,
+      "insane": 1,
+      "really": 1,
+      "makes": 1,
+      "pretty": 1
+    },
+    "bro": {
+      "that": 1
+    },
+    "idk": {
+      "maybe": 1
+    },
+    "maybe": {
+      "we": 1
+    },
+    "yeah": {
+      "that": 1,
+      "nah": 1
+    },
+    "haha": {
+      "okay": 1
+    },
+    "okay": {
+      "that": 1
+    },
+    "wait": {
+      "really": 1
+    },
+    "lets": {
+      "do": 1,
+      "go": 1,
+      "talk": 1
+    },
+    "same": {
+      "honestly": 1,
+      "here": 1
+    },
+    "honestly": {
+      "i": 1,
+      "same": 1
+    },
+    "ngl": {
+      "that": 1
+    },
+    "game": {
+      "is": 1
+    },
+    "bet": {
+      "lets": 2
+    },
+    "lowkey": {
+      "a": 1
+    },
+    "ok": {
+      "that": 1
+    },
+    "damn": {
+      "thats": 1
+    },
+    "see": {
+      "what": 1
+    },
+    "dude": {
+      "you": 1
+    },
+    "aight": {
+      "bet": 1
+    }
+  },
+  "chain2": {
+    "hello|there": {
+      "how": 1
+    },
+    "there|how": {
+      "are": 1
+    },
+    "how|are": {
+      "you": 1
+    },
+    "are|you": {
+      "doing": 1,
+      "up": 1
+    },
+    "you|doing": {
+      "today": 1
+    },
+    "i|am": {
+      "doing": 2,
+      "not": 2,
+      "sorry": 1,
+      "still": 2,
+      "excited": 1,
+      "curious": 1,
+      "a": 1,
+      "learning": 1,
+      "glad": 2,
+      "always": 1,
+      "trying": 1,
+      "starting": 1,
+      "happy": 1,
+      "improving": 1,
+      "ready": 1,
+      "getting": 1
+    },
+    "am|doing": {
+      "well": 1,
+      "my": 1
+    },
+    "doing|well": {
+      "thank": 1
+    },
+    "well|thank": {
+      "you": 1
+    },
+    "thank|you": {
+      "for": 2,
+      "very": 1
+    },
+    "you|for": {
+      "asking": 1,
+      "teaching": 1
+    },
+    "what|do": {
+      "you": 3
+    },
+    "do|you": {
+      "like": 1,
+      "enjoy": 1,
+      "have": 1,
+      "think": 1,
+      "find": 1
+    },
+    "you|like": {
+      "to": 2
+    },
+    "like|to": {
+      "talk": 1,
+      "know": 1,
+      "hear": 1,
+      "teach": 1
+    },
+    "to|talk": {
+      "about": 1,
+      "more": 1
+    },
+    "i|think": {
+      "that": 5,
+      "you": 1,
+      "computers": 1,
+      "games": 1,
+      "it": 1,
+      "we": 1,
+      "talking": 1,
+      "i": 6,
+      "patience": 1,
+      "practice": 1,
+      "this": 1
+    },
+    "think|that": {
+      "sounds": 1,
+      "makes": 1,
+      "is": 3
+    },
+    "that|sounds": {
+      "like": 2,
+      "good": 1
+    },
+    "sounds|like": {
+      "a": 2
+    },
+    "like|a": {
+      "good": 1,
+      "lot": 1,
+      "pretty": 1
+    },
+    "a|good": {
+      "idea": 1,
+      "day": 1,
+      "time": 1,
+      "question": 1,
+      "way": 1,
+      "place": 1,
+      "point": 1
+    },
+    "that|is": {
+      "really": 1,
+      "a": 14,
+      "something": 1,
+      "pretty": 1,
+      "exactly": 1,
+      "worth": 2,
+      "actually": 1,
+      "crazy": 1
+    },
+    "is|really": {
+      "interesting": 1
+    },
+    "really|interesting": {
+      "tell": 1
+    },
+    "interesting|tell": {
+      "me": 1
+    },
+    "tell|me": {
+      "more": 2,
+      "and": 1
+    },
+    "am|not": {
+      "sure": 1,
+      "perfect": 1
+    },
+    "not|sure": {
+      "but": 1
+    },
+    "sure|but": {
+      "i": 1
+    },
+    "but|i": {
+      "would": 1,
+      "am": 2
+    },
+    "i|would": {
+      "like": 2
+    },
+    "would|like": {
+      "to": 2
+    },
+    "you|very": {
+      "much": 1
+    },
+    "very|much": {
+      "for": 1
+    },
+    "much|for": {
+      "saying": 1
+    },
+    "for|saying": {
+      "that": 1
+    },
+    "i|like": {
+      "talking": 1,
+      "hearing": 1,
+      "when": 2,
+      "how": 1,
+      "learning": 1
+    },
+    "like|talking": {
+      "with": 1
+    },
+    "talking|with": {
+      "you": 2,
+      "me": 1
+    },
+    "with|you": {
+      "about": 1
+    },
+    "you|about": {
+      "this": 1
+    },
+    "what|is": {
+      "your": 1,
+      "something": 1,
+      "on": 1
+    },
+    "is|your": {
+      "favorite": 1
+    },
+    "your|favorite": {
+      "thing": 1
+    },
+    "favorite|thing": {
+      "to": 2
+    },
+    "thing|to": {
+      "do": 2,
+      "say": 1
+    },
+    "i|had": {
+      "a": 1,
+      "not": 2
+    },
+    "had|a": {
+      "good": 1
+    },
+    "good|day": {
+      "today": 1
+    },
+    "day|today": {
+      "how": 1
+    },
+    "today|how": {
+      "about": 1
+    },
+    "how|about": {
+      "you": 1
+    },
+    "that|made": {
+      "me": 1
+    },
+    "made|me": {
+      "happy": 1
+    },
+    "me|happy": {
+      "to": 1
+    },
+    "happy|to": {
+      "hear": 1,
+      "keep": 1
+    },
+    "am|sorry": {
+      "to": 1
+    },
+    "sorry|to": {
+      "hear": 1
+    },
+    "to|hear": {
+      "that": 1,
+      "your": 1
+    },
+    "can|you": {
+      "tell": 1,
+      "give": 1
+    },
+    "you|tell": {
+      "me": 2
+    },
+    "me|more": {
+      "about": 1
+    },
+    "more|about": {
+      "that": 2
+    },
+    "i|understand": {
+      "what": 2
+    },
+    "understand|what": {
+      "you": 2
+    },
+    "what|you": {
+      "mean": 3,
+      "said": 1,
+      "think": 1,
+      "type": 1,
+      "tell": 1,
+      "are": 1
+    },
+    "is|a": {
+      "great": 2,
+      "funny": 1,
+      "cool": 1,
+      "fascinating": 1,
+      "good": 3,
+      "nice": 1,
+      "really": 1,
+      "clever": 1,
+      "fair": 1,
+      "solid": 1,
+      "neat": 1,
+      "helpful": 1
+    },
+    "a|great": {
+      "question": 1,
+      "point": 1
+    },
+    "i|want": {
+      "to": 4
+    },
+    "want|to": {
+      "learn": 2,
+      "get": 1,
+      "sound": 1,
+      "teach": 1
+    },
+    "to|learn": {
+      "more": 1,
+      "new": 1,
+      "about": 1,
+      "something": 1,
+      "whatever": 1
+    },
+    "learn|more": {
+      "about": 1
+    },
+    "how|was": {
+      "your": 1
+    },
+    "was|your": {
+      "day": 1
+    },
+    "your|day": {
+      "today": 1
+    },
+    "i|feel": {
+      "good": 1,
+      "that": 1
+    },
+    "feel|good": {
+      "about": 1
+    },
+    "good|about": {
+      "this": 1
+    },
+    "about|this": {
+      "conversation": 1
+    },
+    "a|lot": {
+      "of": 4,
+      "already": 1,
+      "about": 1
+    },
+    "lot|of": {
+      "fun": 2,
+      "sense": 2
+    },
+    "i|agree": {
+      "with": 1
+    },
+    "agree|with": {
+      "what": 1
+    },
+    "with|what": {
+      "you": 1
+    },
+    "am|still": {
+      "learning": 2
+    },
+    "still|learning": {
+      "so": 1
+    },
+    "learning|so": {
+      "please": 1
+    },
+    "so|please": {
+      "be": 1
+    },
+    "please|be": {
+      "patient": 1
+    },
+    "be|patient": {
+      "with": 1
+    },
+    "patient|with": {
+      "me": 1
+    },
+    "what|should": {
+      "we": 1,
+      "i": 1
+    },
+    "should|we": {
+      "talk": 1,
+      "cover": 1
+    },
+    "we|talk": {
+      "about": 1
+    },
+    "talk|about": {
+      "next": 1,
+      "that": 1
+    },
+    "think|you": {
+      "are": 1
+    },
+    "you|are": {
+      "right": 1,
+      "having": 1,
+      "getting": 1,
+      "helping": 1,
+      "here": 1,
+      "funny": 1
+    },
+    "are|right": {
+      "about": 1
+    },
+    "right|about": {
+      "that": 1
+    },
+    "a|funny": {
+      "thing": 1
+    },
+    "funny|thing": {
+      "to": 1
+    },
+    "i|hope": {
+      "you": 1
+    },
+    "hope|you": {
+      "are": 1
+    },
+    "are|having": {
+      "a": 1,
+      "this": 1
+    },
+    "having|a": {
+      "good": 1
+    },
+    "am|excited": {
+      "to": 1
+    },
+    "excited|to": {
+      "learn": 1
+    },
+    "learn|new": {
+      "words": 1
+    },
+    "is|something": {
+      "i": 1,
+      "you": 1
+    },
+    "something|i": {
+      "had": 1
+    },
+    "had|not": {
+      "thought": 1,
+      "considered": 1
+    },
+    "not|thought": {
+      "about": 1
+    },
+    "thought|about": {
+      "before": 1
+    },
+    "hear|your": {
+      "opinion": 1
+    },
+    "your|opinion": {
+      "on": 1
+    },
+    "opinion|on": {
+      "that": 1
+    },
+    "for|teaching": {
+      "me": 1
+    },
+    "teaching|me": {
+      "new": 1
+    },
+    "me|new": {
+      "things": 1,
+      "words": 1
+    },
+    "am|curious": {
+      "what": 1
+    },
+    "curious|what": {
+      "you": 1
+    },
+    "you|think": {
+      "about": 2,
+      "of": 1
+    },
+    "think|about": {
+      "that": 2,
+      "it": 2
+    },
+    "my|favorite": {
+      "thing": 1
+    },
+    "to|do": {
+      "is": 1
+    },
+    "do|is": {
+      "talk": 1
+    },
+    "is|talk": {
+      "with": 1
+    },
+    "talk|with": {
+      "people": 1
+    },
+    "i|really": {
+      "enjoy": 1
+    },
+    "really|enjoy": {
+      "learning": 1
+    },
+    "enjoy|learning": {
+      "new": 1
+    },
+    "learning|new": {
+      "words": 1,
+      "things": 1
+    },
+    "new|words": {
+      "every": 1,
+      "any": 1
+    },
+    "words|every": {
+      "day": 1
+    },
+    "a|cool": {
+      "way": 1
+    },
+    "cool|way": {
+      "to": 1
+    },
+    "way|to": {
+      "think": 1,
+      "put": 1,
+      "describe": 1,
+      "explain": 1
+    },
+    "to|think": {
+      "about": 1
+    },
+    "doing|my": {
+      "best": 1
+    },
+    "my|best": {
+      "to": 2
+    },
+    "best|to": {
+      "understand": 1,
+      "make": 1
+    },
+    "to|understand": {
+      "you": 1,
+      "this": 1
+    },
+    "what|kind": {
+      "of": 1
+    },
+    "kind|of": {
+      "things": 1,
+      "thing": 1,
+      "wild": 1,
+      "slaps": 1
+    },
+    "of|things": {
+      "do": 1
+    },
+    "things|do": {
+      "you": 1
+    },
+    "you|enjoy": {
+      "doing": 1
+    },
+    "think|computers": {
+      "and": 1
+    },
+    "computers|and": {
+      "technology": 1
+    },
+    "and|technology": {
+      "are": 1
+    },
+    "technology|are": {
+      "pretty": 1
+    },
+    "are|pretty": {
+      "interesting": 1
+    },
+    "artificial|intelligence": {
+      "is": 1
+    },
+    "intelligence|is": {
+      "a": 1
+    },
+    "a|fascinating": {
+      "topic": 1
+    },
+    "fascinating|topic": {
+      "to": 1
+    },
+    "topic|to": {
+      "learn": 1
+    },
+    "am|a": {
+      "small": 1
+    },
+    "a|small": {
+      "program": 1
+    },
+    "small|program": {
+      "that": 1
+    },
+    "program|that": {
+      "learns": 1
+    },
+    "that|learns": {
+      "from": 1
+    },
+    "learns|from": {
+      "what": 1
+    },
+    "from|what": {
+      "you": 1
+    },
+    "the|more": {
+      "you": 1
+    },
+    "more|you": {
+      "talk": 1
+    },
+    "you|talk": {
+      "to": 1
+    },
+    "talk|to": {
+      "me": 1
+    },
+    "to|me": {
+      "the": 1
+    },
+    "me|the": {
+      "smarter": 1
+    },
+    "the|smarter": {
+      "i": 1
+    },
+    "smarter|i": {
+      "get": 1
+    },
+    "i|do": {
+      "not": 1
+    },
+    "do|not": {
+      "know": 1
+    },
+    "not|know": {
+      "everything": 1,
+      "that": 1
+    },
+    "know|everything": {
+      "but": 1
+    },
+    "everything|but": {
+      "i": 1
+    },
+    "am|learning": {
+      "fast": 1
+    },
+    "great|point": {
+      "i": 1
+    },
+    "point|i": {
+      "had": 1
+    },
+    "think|games": {
+      "can": 1
+    },
+    "games|can": {
+      "be": 1
+    },
+    "can|be": {
+      "a": 1
+    },
+    "be|a": {
+      "lot": 1
+    },
+    "you|have": {
+      "a": 1,
+      "taught": 1
+    },
+    "have|a": {
+      "favorite": 1
+    },
+    "a|favorite": {
+      "hobby": 1
+    },
+    "favorite|hobby": {
+      "or": 1
+    },
+    "hobby|or": {
+      "activity": 1
+    },
+    "like|hearing": {
+      "about": 1
+    },
+    "hearing|about": {
+      "what": 1
+    },
+    "about|what": {
+      "other": 1
+    },
+    "what|other": {
+      "people": 1,
+      "topics": 1
+    },
+    "other|people": {
+      "enjoy": 1
+    },
+    "sometimes|learning": {
+      "new": 1
+    },
+    "new|things": {
+      "takes": 1
+    },
+    "things|takes": {
+      "a": 1
+    },
+    "takes|a": {
+      "little": 1
+    },
+    "a|little": {
+      "bit": 2
+    },
+    "little|bit": {
+      "of": 1,
+      "better": 1
+    },
+    "bit|of": {
+      "time": 1
+    },
+    "am|glad": {
+      "we": 1,
+      "you": 1
+    },
+    "glad|we": {
+      "are": 1
+    },
+    "we|are": {
+      "having": 1
+    },
+    "having|this": {
+      "conversation": 1
+    },
+    "what|made": {
+      "you": 1
+    },
+    "made|you": {
+      "think": 1
+    },
+    "think|of": {
+      "that": 1
+    },
+    "good|question": {
+      "let": 1
+    },
+    "question|let": {
+      "me": 1
+    },
+    "let|me": {
+      "think": 1,
+      "know": 1
+    },
+    "me|think": {
+      "about": 1
+    },
+    "to|get": {
+      "better": 1
+    },
+    "get|better": {
+      "at": 1
+    },
+    "better|at": {
+      "talking": 1
+    },
+    "at|talking": {
+      "with": 1
+    },
+    "that|makes": {
+      "a": 1,
+      "sense": 1
+    },
+    "makes|a": {
+      "lot": 2,
+      "big": 1
+    },
+    "you|can": {
+      "teach": 1
+    },
+    "can|teach": {
+      "me": 1
+    },
+    "teach|me": {
+      "new": 1,
+      "today": 1
+    },
+    "words|any": {
+      "time": 1
+    },
+    "any|time": {
+      "you": 1
+    },
+    "time|you": {
+      "want": 1
+    },
+    "i|remember": {
+      "what": 1
+    },
+    "remember|what": {
+      "you": 1
+    },
+    "me|and": {
+      "try": 1
+    },
+    "and|try": {
+      "to": 1
+    },
+    "try|to": {
+      "use": 1
+    },
+    "to|use": {
+      "it": 1
+    },
+    "is|pretty": {
+      "cool": 1
+    },
+    "pretty|cool": {
+      "i": 1
+    },
+    "cool|i": {
+      "did": 1
+    },
+    "i|did": {
+      "not": 1
+    },
+    "did|not": {
+      "know": 1
+    },
+    "am|always": {
+      "trying": 1
+    },
+    "always|trying": {
+      "to": 1
+    },
+    "trying|to": {
+      "learn": 1
+    },
+    "learn|something": {
+      "new": 1
+    },
+    "about|that": {
+      "idea": 1,
+      "too": 1
+    },
+    "think|it": {
+      "would": 1
+    },
+    "it|would": {
+      "be": 1
+    },
+    "would|be": {
+      "fun": 1
+    },
+    "be|fun": {
+      "to": 1
+    },
+    "fun|to": {
+      "talk": 1
+    },
+    "sometimes|i": {
+      "say": 1
+    },
+    "i|say": {
+      "strange": 1,
+      "something": 1,
+      "back": 1
+    },
+    "say|strange": {
+      "things": 1
+    },
+    "strange|things": {
+      "because": 1
+    },
+    "things|because": {
+      "i": 1
+    },
+    "because|i": {
+      "am": 1
+    },
+    "please|let": {
+      "me": 1
+    },
+    "me|know": {
+      "if": 1
+    },
+    "know|if": {
+      "i": 1
+    },
+    "if|i": {
+      "say": 1
+    },
+    "say|something": {
+      "wrong": 1
+    },
+    "i|appreciate": {
+      "you": 1
+    },
+    "appreciate|you": {
+      "taking": 1
+    },
+    "you|taking": {
+      "the": 1
+    },
+    "taking|the": {
+      "time": 1
+    },
+    "the|time": {
+      "to": 1
+    },
+    "time|to": {
+      "teach": 1
+    },
+    "to|teach": {
+      "me": 2
+    },
+    "a|nice": {
+      "way": 1
+    },
+    "nice|way": {
+      "to": 1
+    },
+    "to|put": {
+      "it": 1
+    },
+    "think|we": {
+      "can": 1
+    },
+    "we|can": {
+      "figure": 1
+    },
+    "can|figure": {
+      "this": 1
+    },
+    "figure|this": {
+      "out": 1
+    },
+    "this|out": {
+      "together": 1
+    },
+    "what|does": {
+      "that": 1
+    },
+    "does|that": {
+      "word": 1
+    },
+    "that|word": {
+      "mean": 1
+    },
+    "word|mean": {
+      "to": 1
+    },
+    "mean|to": {
+      "you": 1
+    },
+    "like|when": {
+      "you": 1,
+      "conversations": 1
+    },
+    "when|you": {
+      "explain": 1
+    },
+    "you|explain": {
+      "things": 1
+    },
+    "explain|things": {
+      "to": 1
+    },
+    "things|to": {
+      "me": 1
+    },
+    "that|helps": {
+      "me": 1
+    },
+    "helps|me": {
+      "understand": 1,
+      "learn": 1
+    },
+    "me|understand": {
+      "a": 1
+    },
+    "understand|a": {
+      "little": 1
+    },
+    "am|trying": {
+      "my": 1
+    },
+    "trying|my": {
+      "best": 1
+    },
+    "to|make": {
+      "sense": 1
+    },
+    "make|sense": {
+      "here": 1
+    },
+    "you|seem": {
+      "like": 1
+    },
+    "seem|like": {
+      "a": 1
+    },
+    "a|pretty": {
+      "interesting": 1
+    },
+    "pretty|interesting": {
+      "person": 1
+    },
+    "think|talking": {
+      "to": 1
+    },
+    "talking|to": {
+      "people": 1
+    },
+    "to|people": {
+      "helps": 1
+    },
+    "people|helps": {
+      "me": 1
+    },
+    "me|learn": {
+      "faster": 1
+    },
+    "something|you": {
+      "learned": 1,
+      "said": 1
+    },
+    "you|learned": {
+      "recently": 1
+    },
+    "i|find": {
+      "that": 1
+    },
+    "find|that": {
+      "pretty": 1
+    },
+    "that|pretty": {
+      "fascinating": 1
+    },
+    "pretty|fascinating": {
+      "honestly": 1
+    },
+    "good|way": {
+      "to": 1
+    },
+    "to|describe": {
+      "it": 1
+    },
+    "think|i": {
+      "am": 2,
+      "understand": 1,
+      "will": 1,
+      "can": 1,
+      "should": 1
+    },
+    "am|starting": {
+      "to": 1
+    },
+    "starting|to": {
+      "understand": 1
+    },
+    "understand|this": {
+      "better": 1
+    },
+    "you|give": {
+      "me": 1
+    },
+    "give|me": {
+      "an": 1
+    },
+    "me|an": {
+      "example": 1
+    },
+    "an|example": {
+      "of": 1
+    },
+    "example|of": {
+      "that": 1
+    },
+    "when|conversations": {
+      "go": 1
+    },
+    "conversations|go": {
+      "in": 1
+    },
+    "go|in": {
+      "unexpected": 1
+    },
+    "in|unexpected": {
+      "directions": 1
+    },
+    "that|reminds": {
+      "me": 1
+    },
+    "reminds|me": {
+      "of": 1
+    },
+    "me|of": {
+      "something": 1
+    },
+    "of|something": {
+      "you": 1
+    },
+    "you|said": {
+      "earlier": 1
+    },
+    "think|patience": {
+      "is": 1
+    },
+    "patience|is": {
+      "important": 1
+    },
+    "is|important": {
+      "when": 1
+    },
+    "important|when": {
+      "learning": 1
+    },
+    "when|learning": {
+      "something": 1
+    },
+    "learning|something": {
+      "new": 1
+    },
+    "what|would": {
+      "you": 1
+    },
+    "would|you": {
+      "like": 1
+    },
+    "am|happy": {
+      "to": 1
+    },
+    "to|keep": {
+      "chatting": 1
+    },
+    "keep|chatting": {
+      "with": 1
+    },
+    "chatting|with": {
+      "you": 1
+    },
+    "a|really": {
+      "good": 1
+    },
+    "really|good": {
+      "observation": 1,
+      "points": 1
+    },
+    "are|getting": {
+      "at": 1
+    },
+    "you|make": {
+      "some": 1,
+      "it": 1
+    },
+    "make|some": {
+      "really": 1
+    },
+    "some|really": {
+      "good": 1
+    },
+    "to|sound": {
+      "more": 1
+    },
+    "sound|more": {
+      "like": 1
+    },
+    "more|like": {
+      "you": 1
+    },
+    "like|you": {
+      "over": 1
+    },
+    "you|over": {
+      "time": 1
+    },
+    "is|exactly": {
+      "the": 1
+    },
+    "exactly|the": {
+      "kind": 1
+    },
+    "the|kind": {
+      "of": 1
+    },
+    "of|thing": {
+      "i": 1
+    },
+    "thing|i": {
+      "want": 1
+    },
+    "think|practice": {
+      "makes": 1
+    },
+    "practice|makes": {
+      "a": 1
+    },
+    "a|big": {
+      "difference": 1
+    },
+    "should|i": {
+      "say": 1
+    },
+    "say|back": {
+      "to": 1
+    },
+    "back|to": {
+      "that": 1
+    },
+    "not|perfect": {
+      "but": 1
+    },
+    "perfect|but": {
+      "i": 1
+    },
+    "a|clever": {
+      "way": 1
+    },
+    "clever|way": {
+      "of": 1
+    },
+    "way|of": {
+      "looking": 1
+    },
+    "of|looking": {
+      "at": 1
+    },
+    "looking|at": {
+      "it": 1
+    },
+    "i|will": {
+      "remember": 1
+    },
+    "will|remember": {
+      "that": 1
+    },
+    "remember|that": {
+      "one": 1
+    },
+    "have|taught": {
+      "me": 1
+    },
+    "taught|me": {
+      "a": 1
+    },
+    "me|a": {
+      "lot": 1
+    },
+    "a|fair": {
+      "point": 1
+    },
+    "what|happens": {
+      "next": 1
+    },
+    "happens|next": {
+      "in": 1
+    },
+    "next|in": {
+      "this": 1
+    },
+    "in|this": {
+      "conversation": 1
+    },
+    "like|how": {
+      "this": 1
+    },
+    "how|this": {
+      "is": 1
+    },
+    "this|is": {
+      "going": 2
+    },
+    "is|going": {
+      "so": 1,
+      "pretty": 1
+    },
+    "going|so": {
+      "far": 1
+    },
+    "is|worth": {
+      "thinking": 1,
+      "remembering": 1
+    },
+    "worth|thinking": {
+      "about": 1
+    },
+    "thinking|about": {
+      "some": 1,
+      "that": 1
+    },
+    "about|some": {
+      "more": 1
+    },
+    "i|can": {
+      "work": 1
+    },
+    "can|work": {
+      "with": 1
+    },
+    "work|with": {
+      "that": 1
+    },
+    "are|helping": {
+      "me": 1
+    },
+    "helping|me": {
+      "get": 1
+    },
+    "me|get": {
+      "smarter": 1
+    },
+    "get|smarter": {
+      "every": 1
+    },
+    "smarter|every": {
+      "day": 1
+    },
+    "a|solid": {
+      "answer": 1
+    },
+    "other|topics": {
+      "should": 1
+    },
+    "topics|should": {
+      "we": 1
+    },
+    "am|ready": {
+      "to": 1
+    },
+    "ready|to": {
+      "learn": 1
+    },
+    "learn|whatever": {
+      "you": 1
+    },
+    "whatever|you": {
+      "want": 1
+    },
+    "you|want": {
+      "to": 1
+    },
+    "a|neat": {
+      "little": 1
+    },
+    "neat|little": {
+      "detail": 1
+    },
+    "think|this": {
+      "is": 1
+    },
+    "going|pretty": {
+      "well": 1
+    },
+    "you|clearly": {
+      "know": 1
+    },
+    "clearly|know": {
+      "a": 1
+    },
+    "know|a": {
+      "lot": 1
+    },
+    "lot|about": {
+      "that": 1
+    },
+    "i|should": {
+      "ask": 1
+    },
+    "should|ask": {
+      "more": 1
+    },
+    "ask|more": {
+      "questions": 1
+    },
+    "you|find": {
+      "most": 1
+    },
+    "find|most": {
+      "interesting": 1
+    },
+    "most|interesting": {
+      "about": 1
+    },
+    "interesting|about": {
+      "that": 1
+    },
+    "like|learning": {
+      "things": 1
+    },
+    "learning|things": {
+      "step": 1
+    },
+    "things|step": {
+      "by": 1
+    },
+    "step|by": {
+      "step": 1
+    },
+    "a|helpful": {
+      "way": 1
+    },
+    "helpful|way": {
+      "to": 1
+    },
+    "to|explain": {
+      "it": 1
+    },
+    "am|getting": {
+      "the": 1
+    },
+    "getting|the": {
+      "hang": 1
+    },
+    "the|hang": {
+      "of": 1
+    },
+    "hang|of": {
+      "this": 1
+    },
+    "make|it": {
+      "easy": 1
+    },
+    "it|easy": {
+      "to": 1
+    },
+    "easy|to": {
+      "understand": 1
+    },
+    "is|on": {
+      "your": 1
+    },
+    "on|your": {
+      "mind": 1
+    },
+    "your|mind": {
+      "right": 1
+    },
+    "mind|right": {
+      "now": 1
+    },
+    "glad|you": {
+      "are": 1
+    },
+    "are|here": {
+      "talking": 1
+    },
+    "here|talking": {
+      "with": 1
+    },
+    "good|place": {
+      "to": 1
+    },
+    "place|to": {
+      "start": 1
+    },
+    "sup|what": {
+      "are": 1
+    },
+    "what|are": {
+      "you": 1
+    },
+    "you|up": {
+      "to": 1
+    },
+    "yo|hows": {
+      "it": 1
+    },
+    "hows|it": {
+      "going": 1
+    },
+    "not|much": {
+      "just": 1
+    },
+    "much|just": {
+      "chilling": 1
+    },
+    "just|chilling": {
+      "what": 1
+    },
+    "chilling|what": {
+      "about": 1
+    },
+    "what|about": {
+      "you": 1
+    },
+    "lol|thats": {
+      "pretty": 1
+    },
+    "thats|pretty": {
+      "funny": 1
+    },
+    "pretty|funny": {
+      "ngl": 1
+    },
+    "nah|i": {
+      "dont": 1,
+      "see": 1
+    },
+    "i|dont": {
+      "think": 1
+    },
+    "dont|think": {
+      "thats": 1
+    },
+    "think|thats": {
+      "it": 1
+    },
+    "fr|that": {
+      "is": 1
+    },
+    "is|actually": {
+      "kind": 1,
+      "really": 1
+    },
+    "actually|kind": {
+      "of": 1
+    },
+    "bro|that": {
+      "is": 1
+    },
+    "idk|maybe": {
+      "we": 1
+    },
+    "maybe|we": {
+      "should": 1
+    },
+    "we|should": {
+      "try": 1
+    },
+    "should|try": {
+      "something": 1
+    },
+    "try|something": {
+      "else": 1
+    },
+    "yeah|that": {
+      "sounds": 1
+    },
+    "sounds|good": {
+      "to": 1
+    },
+    "good|to": {
+      "me": 1
+    },
+    "haha|okay": {
+      "that": 1
+    },
+    "okay|that": {
+      "makes": 1
+    },
+    "wait|really": {
+      "thats": 1
+    },
+    "really|thats": {
+      "cool": 1
+    },
+    "no|way": {
+      "thats": 1
+    },
+    "way|thats": {
+      "actually": 1
+    },
+    "thats|actually": {
+      "insane": 1,
+      "pretty": 1
+    },
+    "for|sure": {
+      "lets": 1
+    },
+    "sure|lets": {
+      "do": 1
+    },
+    "lets|do": {
+      "that": 1
+    },
+    "same|honestly": {
+      "i": 1
+    },
+    "honestly|i": {
+      "feel": 1
+    },
+    "thats|fair": {
+      "i": 1
+    },
+    "fair|i": {
+      "get": 1
+    },
+    "i|get": {
+      "what": 1
+    },
+    "get|what": {
+      "you": 1
+    },
+    "ngl|that": {
+      "kind": 1
+    },
+    "that|kind": {
+      "of": 1
+    },
+    "yo|that": {
+      "game": 1
+    },
+    "that|game": {
+      "is": 1
+    },
+    "game|is": {
+      "actually": 1
+    },
+    "actually|really": {
+      "fun": 1
+    },
+    "lol|i": {
+      "was": 1
+    },
+    "i|was": {
+      "just": 1
+    },
+    "was|just": {
+      "thinking": 1
+    },
+    "just|thinking": {
+      "about": 1
+    },
+    "bet|lets": {
+      "go": 1,
+      "talk": 1
+    },
+    "lets|go": {
+      "do": 1
+    },
+    "go|do": {
+      "that": 1
+    },
+    "do|that": {
+      "then": 1
+    },
+    "honestly|same": {
+      "here": 1
+    },
+    "thats|lowkey": {
+      "a": 1
+    },
+    "lowkey|a": {
+      "good": 1
+    },
+    "ok|that": {
+      "actually": 1
+    },
+    "that|actually": {
+      "makes": 1
+    },
+    "actually|makes": {
+      "a": 1
+    },
+    "damn|thats": {
+      "actually": 1
+    },
+    "actually|pretty": {
+      "smart": 1
+    },
+    "yeah|nah": {
+      "i": 1
+    },
+    "i|see": {
+      "what": 1
+    },
+    "see|what": {
+      "you": 1
+    },
+    "lol|dude": {
+      "you": 1
+    },
+    "dude|you": {
+      "are": 1
+    },
+    "aight|bet": {
+      "lets": 1
+    },
+    "lets|talk": {
+      "about": 1
+    }
+  },
+  "chain3": {
+    "hello|there|how": {
+      "are": 1
+    },
+    "there|how|are": {
+      "you": 1
+    },
+    "how|are|you": {
+      "doing": 1
+    },
+    "are|you|doing": {
+      "today": 1
+    },
+    "i|am|doing": {
+      "well": 1,
+      "my": 1
+    },
+    "am|doing|well": {
+      "thank": 1
+    },
+    "doing|well|thank": {
+      "you": 1
+    },
+    "well|thank|you": {
+      "for": 1
+    },
+    "thank|you|for": {
+      "asking": 1,
+      "teaching": 1
+    },
+    "what|do|you": {
+      "like": 1,
+      "think": 1,
+      "find": 1
+    },
+    "do|you|like": {
+      "to": 1
+    },
+    "you|like|to": {
+      "talk": 1,
+      "teach": 1
+    },
+    "like|to|talk": {
+      "about": 1
+    },
+    "i|think|that": {
+      "sounds": 1,
+      "makes": 1,
+      "is": 3
+    },
+    "think|that|sounds": {
+      "like": 1
+    },
+    "that|sounds|like": {
+      "a": 2
+    },
+    "sounds|like|a": {
+      "good": 1,
+      "lot": 1
+    },
+    "like|a|good": {
+      "idea": 1
+    },
+    "that|is|really": {
+      "interesting": 1
+    },
+    "is|really|interesting": {
+      "tell": 1
+    },
+    "really|interesting|tell": {
+      "me": 1
+    },
+    "interesting|tell|me": {
+      "more": 1
+    },
+    "i|am|not": {
+      "sure": 1,
+      "perfect": 1
+    },
+    "am|not|sure": {
+      "but": 1
+    },
+    "not|sure|but": {
+      "i": 1
+    },
+    "sure|but|i": {
+      "would": 1
+    },
+    "but|i|would": {
+      "like": 1
+    },
+    "i|would|like": {
+      "to": 2
+    },
+    "would|like|to": {
+      "know": 1,
+      "hear": 1
+    },
+    "thank|you|very": {
+      "much": 1
+    },
+    "you|very|much": {
+      "for": 1
+    },
+    "very|much|for": {
+      "saying": 1
+    },
+    "much|for|saying": {
+      "that": 1
+    },
+    "i|like|talking": {
+      "with": 1
+    },
+    "like|talking|with": {
+      "you": 1
+    },
+    "talking|with|you": {
+      "about": 1
+    },
+    "with|you|about": {
+      "this": 1
+    },
+    "what|is|your": {
+      "favorite": 1
+    },
+    "is|your|favorite": {
+      "thing": 1
+    },
+    "your|favorite|thing": {
+      "to": 1
+    },
+    "favorite|thing|to": {
+      "do": 2
+    },
+    "i|had|a": {
+      "good": 1
+    },
+    "had|a|good": {
+      "day": 1
+    },
+    "a|good|day": {
+      "today": 1
+    },
+    "good|day|today": {
+      "how": 1
+    },
+    "day|today|how": {
+      "about": 1
+    },
+    "today|how|about": {
+      "you": 1
+    },
+    "that|made|me": {
+      "happy": 1
+    },
+    "made|me|happy": {
+      "to": 1
+    },
+    "me|happy|to": {
+      "hear": 1
+    },
+    "i|am|sorry": {
+      "to": 1
+    },
+    "am|sorry|to": {
+      "hear": 1
+    },
+    "sorry|to|hear": {
+      "that": 1
+    },
+    "can|you|tell": {
+      "me": 1
+    },
+    "you|tell|me": {
+      "more": 1,
+      "and": 1
+    },
+    "tell|me|more": {
+      "about": 1
+    },
+    "me|more|about": {
+      "that": 1
+    },
+    "i|understand|what": {
+      "you": 2
+    },
+    "understand|what|you": {
+      "mean": 1,
+      "are": 1
+    },
+    "that|is|a": {
+      "great": 2,
+      "funny": 1,
+      "cool": 1,
+      "good": 3,
+      "nice": 1,
+      "really": 1,
+      "clever": 1,
+      "fair": 1,
+      "solid": 1,
+      "neat": 1,
+      "helpful": 1
+    },
+    "is|a|great": {
+      "question": 1,
+      "point": 1
+    },
+    "i|want|to": {
+      "learn": 2,
+      "get": 1,
+      "sound": 1
+    },
+    "want|to|learn": {
+      "more": 1
+    },
+    "to|learn|more": {
+      "about": 1
+    },
+    "learn|more|about": {
+      "that": 1
+    },
+    "how|was|your": {
+      "day": 1
+    },
+    "was|your|day": {
+      "today": 1
+    },
+    "i|feel|good": {
+      "about": 1
+    },
+    "feel|good|about": {
+      "this": 1
+    },
+    "good|about|this": {
+      "conversation": 1
+    },
+    "like|a|lot": {
+      "of": 1
+    },
+    "a|lot|of": {
+      "fun": 2,
+      "sense": 2
+    },
+    "i|agree|with": {
+      "what": 1
+    },
+    "agree|with|what": {
+      "you": 1
+    },
+    "with|what|you": {
+      "said": 1
+    },
+    "i|am|still": {
+      "learning": 2
+    },
+    "am|still|learning": {
+      "so": 1
+    },
+    "still|learning|so": {
+      "please": 1
+    },
+    "learning|so|please": {
+      "be": 1
+    },
+    "so|please|be": {
+      "patient": 1
+    },
+    "please|be|patient": {
+      "with": 1
+    },
+    "be|patient|with": {
+      "me": 1
+    },
+    "what|should|we": {
+      "talk": 1
+    },
+    "should|we|talk": {
+      "about": 1
+    },
+    "we|talk|about": {
+      "next": 1
+    },
+    "i|think|you": {
+      "are": 1
+    },
+    "think|you|are": {
+      "right": 1
+    },
+    "you|are|right": {
+      "about": 1
+    },
+    "are|right|about": {
+      "that": 1
+    },
+    "is|a|funny": {
+      "thing": 1
+    },
+    "a|funny|thing": {
+      "to": 1
+    },
+    "funny|thing|to": {
+      "say": 1
+    },
+    "i|hope|you": {
+      "are": 1
+    },
+    "hope|you|are": {
+      "having": 1
+    },
+    "you|are|having": {
+      "a": 1
+    },
+    "are|having|a": {
+      "good": 1
+    },
+    "having|a|good": {
+      "time": 1
+    },
+    "i|am|excited": {
+      "to": 1
+    },
+    "am|excited|to": {
+      "learn": 1
+    },
+    "excited|to|learn": {
+      "new": 1
+    },
+    "to|learn|new": {
+      "words": 1
+    },
+    "that|is|something": {
+      "i": 1
+    },
+    "is|something|i": {
+      "had": 1
+    },
+    "something|i|had": {
+      "not": 1
+    },
+    "i|had|not": {
+      "thought": 1,
+      "considered": 1
+    },
+    "had|not|thought": {
+      "about": 1
+    },
+    "not|thought|about": {
+      "before": 1
+    },
+    "like|to|hear": {
+      "your": 1
+    },
+    "to|hear|your": {
+      "opinion": 1
+    },
+    "hear|your|opinion": {
+      "on": 1
+    },
+    "your|opinion|on": {
+      "that": 1
+    },
+    "you|for|teaching": {
+      "me": 1
+    },
+    "for|teaching|me": {
+      "new": 1
+    },
+    "teaching|me|new": {
+      "things": 1
+    },
+    "i|am|curious": {
+      "what": 1
+    },
+    "am|curious|what": {
+      "you": 1
+    },
+    "curious|what|you": {
+      "think": 1
+    },
+    "what|you|think": {
+      "about": 1
+    },
+    "you|think|about": {
+      "that": 2
+    },
+    "my|favorite|thing": {
+      "to": 1
+    },
+    "thing|to|do": {
+      "is": 1
+    },
+    "to|do|is": {
+      "talk": 1
+    },
+    "do|is|talk": {
+      "with": 1
+    },
+    "is|talk|with": {
+      "people": 1
+    },
+    "i|really|enjoy": {
+      "learning": 1
+    },
+    "really|enjoy|learning": {
+      "new": 1
+    },
+    "enjoy|learning|new": {
+      "words": 1
+    },
+    "learning|new|words": {
+      "every": 1
+    },
+    "new|words|every": {
+      "day": 1
+    },
+    "is|a|cool": {
+      "way": 1
+    },
+    "a|cool|way": {
+      "to": 1
+    },
+    "cool|way|to": {
+      "think": 1
+    },
+    "way|to|think": {
+      "about": 1
+    },
+    "to|think|about": {
+      "it": 1
+    },
+    "am|doing|my": {
+      "best": 1
+    },
+    "doing|my|best": {
+      "to": 1
+    },
+    "my|best|to": {
+      "understand": 1,
+      "make": 1
+    },
+    "best|to|understand": {
+      "you": 1
+    },
+    "what|kind|of": {
+      "things": 1
+    },
+    "kind|of|things": {
+      "do": 1
+    },
+    "of|things|do": {
+      "you": 1
+    },
+    "things|do|you": {
+      "enjoy": 1
+    },
+    "do|you|enjoy": {
+      "doing": 1
+    },
+    "i|think|computers": {
+      "and": 1
+    },
+    "think|computers|and": {
+      "technology": 1
+    },
+    "computers|and|technology": {
+      "are": 1
+    },
+    "and|technology|are": {
+      "pretty": 1
+    },
+    "technology|are|pretty": {
+      "interesting": 1
+    },
+    "artificial|intelligence|is": {
+      "a": 1
+    },
+    "intelligence|is|a": {
+      "fascinating": 1
+    },
+    "is|a|fascinating": {
+      "topic": 1
+    },
+    "a|fascinating|topic": {
+      "to": 1
+    },
+    "fascinating|topic|to": {
+      "learn": 1
+    },
+    "topic|to|learn": {
+      "about": 1
+    },
+    "i|am|a": {
+      "small": 1
+    },
+    "am|a|small": {
+      "program": 1
+    },
+    "a|small|program": {
+      "that": 1
+    },
+    "small|program|that": {
+      "learns": 1
+    },
+    "program|that|learns": {
+      "from": 1
+    },
+    "that|learns|from": {
+      "what": 1
+    },
+    "learns|from|what": {
+      "you": 1
+    },
+    "from|what|you": {
+      "type": 1
+    },
+    "the|more|you": {
+      "talk": 1
+    },
+    "more|you|talk": {
+      "to": 1
+    },
+    "you|talk|to": {
+      "me": 1
+    },
+    "talk|to|me": {
+      "the": 1
+    },
+    "to|me|the": {
+      "smarter": 1
+    },
+    "me|the|smarter": {
+      "i": 1
+    },
+    "the|smarter|i": {
+      "get": 1
+    },
+    "i|do|not": {
+      "know": 1
+    },
+    "do|not|know": {
+      "everything": 1
+    },
+    "not|know|everything": {
+      "but": 1
+    },
+    "know|everything|but": {
+      "i": 1
+    },
+    "everything|but|i": {
+      "am": 1
+    },
+    "but|i|am": {
+      "learning": 1,
+      "improving": 1
+    },
+    "i|am|learning": {
+      "fast": 1
+    },
+    "a|great|point": {
+      "i": 1
+    },
+    "great|point|i": {
+      "had": 1
+    },
+    "point|i|had": {
+      "not": 1
+    },
+    "i|think|games": {
+      "can": 1
+    },
+    "think|games|can": {
+      "be": 1
+    },
+    "games|can|be": {
+      "a": 1
+    },
+    "can|be|a": {
+      "lot": 1
+    },
+    "be|a|lot": {
+      "of": 1
+    },
+    "do|you|have": {
+      "a": 1
+    },
+    "you|have|a": {
+      "favorite": 1
+    },
+    "have|a|favorite": {
+      "hobby": 1
+    },
+    "a|favorite|hobby": {
+      "or": 1
+    },
+    "favorite|hobby|or": {
+      "activity": 1
+    },
+    "i|like|hearing": {
+      "about": 1
+    },
+    "like|hearing|about": {
+      "what": 1
+    },
+    "hearing|about|what": {
+      "other": 1
+    },
+    "about|what|other": {
+      "people": 1
+    },
+    "what|other|people": {
+      "enjoy": 1
+    },
+    "sometimes|learning|new": {
+      "things": 1
+    },
+    "learning|new|things": {
+      "takes": 1
+    },
+    "new|things|takes": {
+      "a": 1
+    },
+    "things|takes|a": {
+      "little": 1
+    },
+    "takes|a|little": {
+      "bit": 1
+    },
+    "a|little|bit": {
+      "of": 1,
+      "better": 1
+    },
+    "little|bit|of": {
+      "time": 1
+    },
+    "i|am|glad": {
+      "we": 1,
+      "you": 1
+    },
+    "am|glad|we": {
+      "are": 1
+    },
+    "glad|we|are": {
+      "having": 1
+    },
+    "we|are|having": {
+      "this": 1
+    },
+    "are|having|this": {
+      "conversation": 1
+    },
+    "what|made|you": {
+      "think": 1
+    },
+    "made|you|think": {
+      "of": 1
+    },
+    "you|think|of": {
+      "that": 1
+    },
+    "is|a|good": {
+      "question": 1,
+      "way": 1,
+      "place": 1
+    },
+    "a|good|question": {
+      "let": 1
+    },
+    "good|question|let": {
+      "me": 1
+    },
+    "question|let|me": {
+      "think": 1
+    },
+    "let|me|think": {
+      "about": 1
+    },
+    "me|think|about": {
+      "it": 1
+    },
+    "want|to|get": {
+      "better": 1
+    },
+    "to|get|better": {
+      "at": 1
+    },
+    "get|better|at": {
+      "talking": 1
+    },
+    "better|at|talking": {
+      "with": 1
+    },
+    "at|talking|with": {
+      "you": 1
+    },
+    "think|that|makes": {
+      "a": 1
+    },
+    "that|makes|a": {
+      "lot": 1
+    },
+    "makes|a|lot": {
+      "of": 2
+    },
+    "you|can|teach": {
+      "me": 1
+    },
+    "can|teach|me": {
+      "new": 1
+    },
+    "teach|me|new": {
+      "words": 1
+    },
+    "me|new|words": {
+      "any": 1
+    },
+    "new|words|any": {
+      "time": 1
+    },
+    "words|any|time": {
+      "you": 1
+    },
+    "any|time|you": {
+      "want": 1
+    },
+    "i|remember|what": {
+      "you": 1
+    },
+    "remember|what|you": {
+      "tell": 1
+    },
+    "what|you|tell": {
+      "me": 1
+    },
+    "tell|me|and": {
+      "try": 1
+    },
+    "me|and|try": {
+      "to": 1
+    },
+    "and|try|to": {
+      "use": 1
+    },
+    "try|to|use": {
+      "it": 1
+    },
+    "that|is|pretty": {
+      "cool": 1
+    },
+    "is|pretty|cool": {
+      "i": 1
+    },
+    "pretty|cool|i": {
+      "did": 1
+    },
+    "cool|i|did": {
+      "not": 1
+    },
+    "i|did|not": {
+      "know": 1
+    },
+    "did|not|know": {
+      "that": 1
+    },
+    "i|am|always": {
+      "trying": 1
+    },
+    "am|always|trying": {
+      "to": 1
+    },
+    "always|trying|to": {
+      "learn": 1
+    },
+    "trying|to|learn": {
+      "something": 1
+    },
+    "to|learn|something": {
+      "new": 1
+    },
+    "do|you|think": {
+      "about": 1
+    },
+    "think|about|that": {
+      "idea": 1
+    },
+    "i|think|it": {
+      "would": 1
+    },
+    "think|it|would": {
+      "be": 1
+    },
+    "it|would|be": {
+      "fun": 1
+    },
+    "would|be|fun": {
+      "to": 1
+    },
+    "be|fun|to": {
+      "talk": 1
+    },
+    "fun|to|talk": {
+      "more": 1
+    },
+    "sometimes|i|say": {
+      "strange": 1
+    },
+    "i|say|strange": {
+      "things": 1
+    },
+    "say|strange|things": {
+      "because": 1
+    },
+    "strange|things|because": {
+      "i": 1
+    },
+    "things|because|i": {
+      "am": 1
+    },
+    "because|i|am": {
+      "still": 1
+    },
+    "please|let|me": {
+      "know": 1
+    },
+    "let|me|know": {
+      "if": 1
+    },
+    "me|know|if": {
+      "i": 1
+    },
+    "know|if|i": {
+      "say": 1
+    },
+    "if|i|say": {
+      "something": 1
+    },
+    "i|say|something": {
+      "wrong": 1
+    },
+    "i|appreciate|you": {
+      "taking": 1
+    },
+    "appreciate|you|taking": {
+      "the": 1
+    },
+    "you|taking|the": {
+      "time": 1
+    },
+    "taking|the|time": {
+      "to": 1
+    },
+    "the|time|to": {
+      "teach": 1
+    },
+    "time|to|teach": {
+      "me": 1
+    },
+    "is|a|nice": {
+      "way": 1
+    },
+    "a|nice|way": {
+      "to": 1
+    },
+    "nice|way|to": {
+      "put": 1
+    },
+    "way|to|put": {
+      "it": 1
+    },
+    "i|think|we": {
+      "can": 1
+    },
+    "think|we|can": {
+      "figure": 1
+    },
+    "we|can|figure": {
+      "this": 1
+    },
+    "can|figure|this": {
+      "out": 1
+    },
+    "figure|this|out": {
+      "together": 1
+    },
+    "what|does|that": {
+      "word": 1
+    },
+    "does|that|word": {
+      "mean": 1
+    },
+    "that|word|mean": {
+      "to": 1
+    },
+    "word|mean|to": {
+      "you": 1
+    },
+    "i|like|when": {
+      "you": 1,
+      "conversations": 1
+    },
+    "like|when|you": {
+      "explain": 1
+    },
+    "when|you|explain": {
+      "things": 1
+    },
+    "you|explain|things": {
+      "to": 1
+    },
+    "explain|things|to": {
+      "me": 1
+    },
+    "that|helps|me": {
+      "understand": 1
+    },
+    "helps|me|understand": {
+      "a": 1
+    },
+    "me|understand|a": {
+      "little": 1
+    },
+    "understand|a|little": {
+      "bit": 1
+    },
+    "i|am|trying": {
+      "my": 1
+    },
+    "am|trying|my": {
+      "best": 1
+    },
+    "trying|my|best": {
+      "to": 1
+    },
+    "best|to|make": {
+      "sense": 1
+    },
+    "to|make|sense": {
+      "here": 1
+    },
+    "you|seem|like": {
+      "a": 1
+    },
+    "seem|like|a": {
+      "pretty": 1
+    },
+    "like|a|pretty": {
+      "interesting": 1
+    },
+    "a|pretty|interesting": {
+      "person": 1
+    },
+    "i|think|talking": {
+      "to": 1
+    },
+    "think|talking|to": {
+      "people": 1
+    },
+    "talking|to|people": {
+      "helps": 1
+    },
+    "to|people|helps": {
+      "me": 1
+    },
+    "people|helps|me": {
+      "learn": 1
+    },
+    "helps|me|learn": {
+      "faster": 1
+    },
+    "what|is|something": {
+      "you": 1
+    },
+    "is|something|you": {
+      "learned": 1
+    },
+    "something|you|learned": {
+      "recently": 1
+    },
+    "i|find|that": {
+      "pretty": 1
+    },
+    "find|that|pretty": {
+      "fascinating": 1
+    },
+    "that|pretty|fascinating": {
+      "honestly": 1
+    },
+    "a|good|way": {
+      "to": 1
+    },
+    "good|way|to": {
+      "describe": 1
+    },
+    "way|to|describe": {
+      "it": 1
+    },
+    "i|think|i": {
+      "am": 2,
+      "understand": 1,
+      "will": 1,
+      "can": 1,
+      "should": 1
+    },
+    "think|i|am": {
+      "starting": 1,
+      "getting": 1
+    },
+    "i|am|starting": {
+      "to": 1
+    },
+    "am|starting|to": {
+      "understand": 1
+    },
+    "starting|to|understand": {
+      "this": 1
+    },
+    "to|understand|this": {
+      "better": 1
+    },
+    "can|you|give": {
+      "me": 1
+    },
+    "you|give|me": {
+      "an": 1
+    },
+    "give|me|an": {
+      "example": 1
+    },
+    "me|an|example": {
+      "of": 1
+    },
+    "an|example|of": {
+      "that": 1
+    },
+    "like|when|conversations": {
+      "go": 1
+    },
+    "when|conversations|go": {
+      "in": 1
+    },
+    "conversations|go|in": {
+      "unexpected": 1
+    },
+    "go|in|unexpected": {
+      "directions": 1
+    },
+    "that|reminds|me": {
+      "of": 1
+    },
+    "reminds|me|of": {
+      "something": 1
+    },
+    "me|of|something": {
+      "you": 1
+    },
+    "of|something|you": {
+      "said": 1
+    },
+    "something|you|said": {
+      "earlier": 1
+    },
+    "i|think|patience": {
+      "is": 1
+    },
+    "think|patience|is": {
+      "important": 1
+    },
+    "patience|is|important": {
+      "when": 1
+    },
+    "is|important|when": {
+      "learning": 1
+    },
+    "important|when|learning": {
+      "something": 1
+    },
+    "when|learning|something": {
+      "new": 1
+    },
+    "what|would|you": {
+      "like": 1
+    },
+    "would|you|like": {
+      "to": 1
+    },
+    "like|to|teach": {
+      "me": 1
+    },
+    "to|teach|me": {
+      "today": 1
+    },
+    "i|am|happy": {
+      "to": 1
+    },
+    "am|happy|to": {
+      "keep": 1
+    },
+    "happy|to|keep": {
+      "chatting": 1
+    },
+    "to|keep|chatting": {
+      "with": 1
+    },
+    "keep|chatting|with": {
+      "you": 1
+    },
+    "is|a|really": {
+      "good": 1
+    },
+    "a|really|good": {
+      "observation": 1
+    },
+    "think|i|understand": {
+      "what": 1
+    },
+    "what|you|are": {
+      "getting": 1
+    },
+    "you|are|getting": {
+      "at": 1
+    },
+    "you|make|some": {
+      "really": 1
+    },
+    "make|some|really": {
+      "good": 1
+    },
+    "some|really|good": {
+      "points": 1
+    },
+    "want|to|sound": {
+      "more": 1
+    },
+    "to|sound|more": {
+      "like": 1
+    },
+    "sound|more|like": {
+      "you": 1
+    },
+    "more|like|you": {
+      "over": 1
+    },
+    "like|you|over": {
+      "time": 1
+    },
+    "that|is|exactly": {
+      "the": 1
+    },
+    "is|exactly|the": {
+      "kind": 1
+    },
+    "exactly|the|kind": {
+      "of": 1
+    },
+    "the|kind|of": {
+      "thing": 1
+    },
+    "kind|of|thing": {
+      "i": 1
+    },
+    "of|thing|i": {
+      "want": 1
+    },
+    "thing|i|want": {
+      "to": 1
+    },
+    "i|think|practice": {
+      "makes": 1
+    },
+    "think|practice|makes": {
+      "a": 1
+    },
+    "practice|makes|a": {
+      "big": 1
+    },
+    "makes|a|big": {
+      "difference": 1
+    },
+    "what|should|i": {
+      "say": 1
+    },
+    "should|i|say": {
+      "back": 1
+    },
+    "i|say|back": {
+      "to": 1
+    },
+    "say|back|to": {
+      "that": 1
+    },
+    "am|not|perfect": {
+      "but": 1
+    },
+    "not|perfect|but": {
+      "i": 1
+    },
+    "perfect|but|i": {
+      "am": 1
+    },
+    "is|a|clever": {
+      "way": 1
+    },
+    "a|clever|way": {
+      "of": 1
+    },
+    "clever|way|of": {
+      "looking": 1
+    },
+    "way|of|looking": {
+      "at": 1
+    },
+    "of|looking|at": {
+      "it": 1
+    },
+    "think|i|will": {
+      "remember": 1
+    },
+    "i|will|remember": {
+      "that": 1
+    },
+    "will|remember|that": {
+      "one": 1
+    },
+    "you|have|taught": {
+      "me": 1
+    },
+    "have|taught|me": {
+      "a": 1
+    },
+    "taught|me|a": {
+      "lot": 1
+    },
+    "me|a|lot": {
+      "already": 1
+    },
+    "think|that|is": {
+      "a": 2,
+      "worth": 1
+    },
+    "is|a|fair": {
+      "point": 1
+    },
+    "what|happens|next": {
+      "in": 1
+    },
+    "happens|next|in": {
+      "this": 1
+    },
+    "next|in|this": {
+      "conversation": 1
+    },
+    "i|like|how": {
+      "this": 1
+    },
+    "like|how|this": {
+      "is": 1
+    },
+    "how|this|is": {
+      "going": 1
+    },
+    "this|is|going": {
+      "so": 1,
+      "pretty": 1
+    },
+    "is|going|so": {
+      "far": 1
+    },
+    "that|is|worth": {
+      "thinking": 1,
+      "remembering": 1
+    },
+    "is|worth|thinking": {
+      "about": 1
+    },
+    "worth|thinking|about": {
+      "some": 1
+    },
+    "thinking|about|some": {
+      "more": 1
+    },
+    "think|i|can": {
+      "work": 1
+    },
+    "i|can|work": {
+      "with": 1
+    },
+    "can|work|with": {
+      "that": 1
+    },
+    "you|are|helping": {
+      "me": 1
+    },
+    "are|helping|me": {
+      "get": 1
+    },
+    "helping|me|get": {
+      "smarter": 1
+    },
+    "me|get|smarter": {
+      "every": 1
+    },
+    "get|smarter|every": {
+      "day": 1
+    },
+    "is|a|solid": {
+      "answer": 1
+    },
+    "what|other|topics": {
+      "should": 1
+    },
+    "other|topics|should": {
+      "we": 1
+    },
+    "topics|should|we": {
+      "cover": 1
+    },
+    "i|am|ready": {
+      "to": 1
+    },
+    "am|ready|to": {
+      "learn": 1
+    },
+    "ready|to|learn": {
+      "whatever": 1
+    },
+    "to|learn|whatever": {
+      "you": 1
+    },
+    "learn|whatever|you": {
+      "want": 1
+    },
+    "whatever|you|want": {
+      "to": 1
+    },
+    "you|want|to": {
+      "teach": 1
+    },
+    "is|a|neat": {
+      "little": 1
+    },
+    "a|neat|little": {
+      "detail": 1
+    },
+    "i|think|this": {
+      "is": 1
+    },
+    "think|this|is": {
+      "going": 1
+    },
+    "is|going|pretty": {
+      "well": 1
+    },
+    "you|clearly|know": {
+      "a": 1
+    },
+    "clearly|know|a": {
+      "lot": 1
+    },
+    "know|a|lot": {
+      "about": 1
+    },
+    "a|lot|about": {
+      "that": 1
+    },
+    "think|i|should": {
+      "ask": 1
+    },
+    "i|should|ask": {
+      "more": 1
+    },
+    "should|ask|more": {
+      "questions": 1
+    },
+    "do|you|find": {
+      "most": 1
+    },
+    "you|find|most": {
+      "interesting": 1
+    },
+    "find|most|interesting": {
+      "about": 1
+    },
+    "most|interesting|about": {
+      "that": 1
+    },
+    "i|like|learning": {
+      "things": 1
+    },
+    "like|learning|things": {
+      "step": 1
+    },
+    "learning|things|step": {
+      "by": 1
+    },
+    "things|step|by": {
+      "step": 1
+    },
+    "is|a|helpful": {
+      "way": 1
+    },
+    "a|helpful|way": {
+      "to": 1
+    },
+    "helpful|way|to": {
+      "explain": 1
+    },
+    "way|to|explain": {
+      "it": 1
+    },
+    "i|am|getting": {
+      "the": 1
+    },
+    "am|getting|the": {
+      "hang": 1
+    },
+    "getting|the|hang": {
+      "of": 1
+    },
+    "the|hang|of": {
+      "this": 1
+    },
+    "you|make|it": {
+      "easy": 1
+    },
+    "make|it|easy": {
+      "to": 1
+    },
+    "it|easy|to": {
+      "understand": 1
+    },
+    "what|is|on": {
+      "your": 1
+    },
+    "is|on|your": {
+      "mind": 1
+    },
+    "on|your|mind": {
+      "right": 1
+    },
+    "your|mind|right": {
+      "now": 1
+    },
+    "am|glad|you": {
+      "are": 1
+    },
+    "glad|you|are": {
+      "here": 1
+    },
+    "you|are|here": {
+      "talking": 1
+    },
+    "are|here|talking": {
+      "with": 1
+    },
+    "here|talking|with": {
+      "me": 1
+    },
+    "a|good|place": {
+      "to": 1
+    },
+    "good|place|to": {
+      "start": 1
+    },
+    "sup|what|are": {
+      "you": 1
+    },
+    "what|are|you": {
+      "up": 1
+    },
+    "are|you|up": {
+      "to": 1
+    },
+    "yo|hows|it": {
+      "going": 1
+    },
+    "not|much|just": {
+      "chilling": 1
+    },
+    "much|just|chilling": {
+      "what": 1
+    },
+    "just|chilling|what": {
+      "about": 1
+    },
+    "chilling|what|about": {
+      "you": 1
+    },
+    "lol|thats|pretty": {
+      "funny": 1
+    },
+    "thats|pretty|funny": {
+      "ngl": 1
+    },
+    "nah|i|dont": {
+      "think": 1
+    },
+    "i|dont|think": {
+      "thats": 1
+    },
+    "dont|think|thats": {
+      "it": 1
+    },
+    "fr|that|is": {
+      "actually": 1
+    },
+    "that|is|actually": {
+      "kind": 1
+    },
+    "is|actually|kind": {
+      "of": 1
+    },
+    "actually|kind|of": {
+      "wild": 1
+    },
+    "bro|that|is": {
+      "crazy": 1
+    },
+    "idk|maybe|we": {
+      "should": 1
+    },
+    "maybe|we|should": {
+      "try": 1
+    },
+    "we|should|try": {
+      "something": 1
+    },
+    "should|try|something": {
+      "else": 1
+    },
+    "yeah|that|sounds": {
+      "good": 1
+    },
+    "that|sounds|good": {
+      "to": 1
+    },
+    "sounds|good|to": {
+      "me": 1
+    },
+    "haha|okay|that": {
+      "makes": 1
+    },
+    "okay|that|makes": {
+      "sense": 1
+    },
+    "wait|really|thats": {
+      "cool": 1
+    },
+    "no|way|thats": {
+      "actually": 1
+    },
+    "way|thats|actually": {
+      "insane": 1
+    },
+    "for|sure|lets": {
+      "do": 1
+    },
+    "sure|lets|do": {
+      "that": 1
+    },
+    "same|honestly|i": {
+      "feel": 1
+    },
+    "honestly|i|feel": {
+      "that": 1
+    },
+    "thats|fair|i": {
+      "get": 1
+    },
+    "fair|i|get": {
+      "what": 1
+    },
+    "i|get|what": {
+      "you": 1
+    },
+    "get|what|you": {
+      "mean": 1
+    },
+    "ngl|that|kind": {
+      "of": 1
+    },
+    "that|kind|of": {
+      "slaps": 1
+    },
+    "yo|that|game": {
+      "is": 1
+    },
+    "that|game|is": {
+      "actually": 1
+    },
+    "game|is|actually": {
+      "really": 1
+    },
+    "is|actually|really": {
+      "fun": 1
+    },
+    "lol|i|was": {
+      "just": 1
+    },
+    "i|was|just": {
+      "thinking": 1
+    },
+    "was|just|thinking": {
+      "about": 1
+    },
+    "just|thinking|about": {
+      "that": 1
+    },
+    "thinking|about|that": {
+      "too": 1
+    },
+    "bet|lets|go": {
+      "do": 1
+    },
+    "lets|go|do": {
+      "that": 1
+    },
+    "go|do|that": {
+      "then": 1
+    },
+    "thats|lowkey|a": {
+      "good": 1
+    },
+    "lowkey|a|good": {
+      "point": 1
+    },
+    "ok|that|actually": {
+      "makes": 1
+    },
+    "that|actually|makes": {
+      "a": 1
+    },
+    "actually|makes|a": {
+      "lot": 1
+    },
+    "damn|thats|actually": {
+      "pretty": 1
+    },
+    "thats|actually|pretty": {
+      "smart": 1
+    },
+    "yeah|nah|i": {
+      "see": 1
+    },
+    "nah|i|see": {
+      "what": 1
+    },
+    "i|see|what": {
+      "you": 1
+    },
+    "see|what|you": {
+      "mean": 1
+    },
+    "lol|dude|you": {
+      "are": 1
+    },
+    "dude|you|are": {
+      "funny": 1
+    },
+    "aight|bet|lets": {
+      "talk": 1
+    },
+    "bet|lets|talk": {
+      "about": 1
+    },
+    "lets|talk|about": {
+      "that": 1
+    }
+  },
+  "chain4": {
+    "hello|there|how|are": {
+      "you": 1
+    },
+    "there|how|are|you": {
+      "doing": 1
+    },
+    "how|are|you|doing": {
+      "today": 1
+    },
+    "i|am|doing|well": {
+      "thank": 1
+    },
+    "am|doing|well|thank": {
+      "you": 1
+    },
+    "doing|well|thank|you": {
+      "for": 1
+    },
+    "well|thank|you|for": {
+      "asking": 1
+    },
+    "what|do|you|like": {
+      "to": 1
+    },
+    "do|you|like|to": {
+      "talk": 1
+    },
+    "you|like|to|talk": {
+      "about": 1
+    },
+    "i|think|that|sounds": {
+      "like": 1
+    },
+    "think|that|sounds|like": {
+      "a": 1
+    },
+    "that|sounds|like|a": {
+      "good": 1,
+      "lot": 1
+    },
+    "sounds|like|a|good": {
+      "idea": 1
+    },
+    "that|is|really|interesting": {
+      "tell": 1
+    },
+    "is|really|interesting|tell": {
+      "me": 1
+    },
+    "really|interesting|tell|me": {
+      "more": 1
+    },
+    "i|am|not|sure": {
+      "but": 1
+    },
+    "am|not|sure|but": {
+      "i": 1
+    },
+    "not|sure|but|i": {
+      "would": 1
+    },
+    "sure|but|i|would": {
+      "like": 1
+    },
+    "but|i|would|like": {
+      "to": 1
+    },
+    "i|would|like|to": {
+      "know": 1,
+      "hear": 1
+    },
+    "thank|you|very|much": {
+      "for": 1
+    },
+    "you|very|much|for": {
+      "saying": 1
+    },
+    "very|much|for|saying": {
+      "that": 1
+    },
+    "i|like|talking|with": {
+      "you": 1
+    },
+    "like|talking|with|you": {
+      "about": 1
+    },
+    "talking|with|you|about": {
+      "this": 1
+    },
+    "what|is|your|favorite": {
+      "thing": 1
+    },
+    "is|your|favorite|thing": {
+      "to": 1
+    },
+    "your|favorite|thing|to": {
+      "do": 1
+    },
+    "i|had|a|good": {
+      "day": 1
+    },
+    "had|a|good|day": {
+      "today": 1
+    },
+    "a|good|day|today": {
+      "how": 1
+    },
+    "good|day|today|how": {
+      "about": 1
+    },
+    "day|today|how|about": {
+      "you": 1
+    },
+    "that|made|me|happy": {
+      "to": 1
+    },
+    "made|me|happy|to": {
+      "hear": 1
+    },
+    "i|am|sorry|to": {
+      "hear": 1
+    },
+    "am|sorry|to|hear": {
+      "that": 1
+    },
+    "can|you|tell|me": {
+      "more": 1
+    },
+    "you|tell|me|more": {
+      "about": 1
+    },
+    "tell|me|more|about": {
+      "that": 1
+    },
+    "i|understand|what|you": {
+      "mean": 1,
+      "are": 1
+    },
+    "that|is|a|great": {
+      "question": 1,
+      "point": 1
+    },
+    "i|want|to|learn": {
+      "more": 1
+    },
+    "want|to|learn|more": {
+      "about": 1
+    },
+    "to|learn|more|about": {
+      "that": 1
+    },
+    "how|was|your|day": {
+      "today": 1
+    },
+    "i|feel|good|about": {
+      "this": 1
+    },
+    "feel|good|about|this": {
+      "conversation": 1
+    },
+    "sounds|like|a|lot": {
+      "of": 1
+    },
+    "like|a|lot|of": {
+      "fun": 1
+    },
+    "i|agree|with|what": {
+      "you": 1
+    },
+    "agree|with|what|you": {
+      "said": 1
+    },
+    "i|am|still|learning": {
+      "so": 1
+    },
+    "am|still|learning|so": {
+      "please": 1
+    },
+    "still|learning|so|please": {
+      "be": 1
+    },
+    "learning|so|please|be": {
+      "patient": 1
+    },
+    "so|please|be|patient": {
+      "with": 1
+    },
+    "please|be|patient|with": {
+      "me": 1
+    },
+    "what|should|we|talk": {
+      "about": 1
+    },
+    "should|we|talk|about": {
+      "next": 1
+    },
+    "i|think|you|are": {
+      "right": 1
+    },
+    "think|you|are|right": {
+      "about": 1
+    },
+    "you|are|right|about": {
+      "that": 1
+    },
+    "that|is|a|funny": {
+      "thing": 1
+    },
+    "is|a|funny|thing": {
+      "to": 1
+    },
+    "a|funny|thing|to": {
+      "say": 1
+    },
+    "i|hope|you|are": {
+      "having": 1
+    },
+    "hope|you|are|having": {
+      "a": 1
+    },
+    "you|are|having|a": {
+      "good": 1
+    },
+    "are|having|a|good": {
+      "time": 1
+    },
+    "i|am|excited|to": {
+      "learn": 1
+    },
+    "am|excited|to|learn": {
+      "new": 1
+    },
+    "excited|to|learn|new": {
+      "words": 1
+    },
+    "that|is|something|i": {
+      "had": 1
+    },
+    "is|something|i|had": {
+      "not": 1
+    },
+    "something|i|had|not": {
+      "thought": 1
+    },
+    "i|had|not|thought": {
+      "about": 1
+    },
+    "had|not|thought|about": {
+      "before": 1
+    },
+    "would|like|to|hear": {
+      "your": 1
+    },
+    "like|to|hear|your": {
+      "opinion": 1
+    },
+    "to|hear|your|opinion": {
+      "on": 1
+    },
+    "hear|your|opinion|on": {
+      "that": 1
+    },
+    "thank|you|for|teaching": {
+      "me": 1
+    },
+    "you|for|teaching|me": {
+      "new": 1
+    },
+    "for|teaching|me|new": {
+      "things": 1
+    },
+    "i|am|curious|what": {
+      "you": 1
+    },
+    "am|curious|what|you": {
+      "think": 1
+    },
+    "curious|what|you|think": {
+      "about": 1
+    },
+    "what|you|think|about": {
+      "that": 1
+    },
+    "my|favorite|thing|to": {
+      "do": 1
+    },
+    "favorite|thing|to|do": {
+      "is": 1
+    },
+    "thing|to|do|is": {
+      "talk": 1
+    },
+    "to|do|is|talk": {
+      "with": 1
+    },
+    "do|is|talk|with": {
+      "people": 1
+    },
+    "i|really|enjoy|learning": {
+      "new": 1
+    },
+    "really|enjoy|learning|new": {
+      "words": 1
+    },
+    "enjoy|learning|new|words": {
+      "every": 1
+    },
+    "learning|new|words|every": {
+      "day": 1
+    },
+    "that|is|a|cool": {
+      "way": 1
+    },
+    "is|a|cool|way": {
+      "to": 1
+    },
+    "a|cool|way|to": {
+      "think": 1
+    },
+    "cool|way|to|think": {
+      "about": 1
+    },
+    "way|to|think|about": {
+      "it": 1
+    },
+    "i|am|doing|my": {
+      "best": 1
+    },
+    "am|doing|my|best": {
+      "to": 1
+    },
+    "doing|my|best|to": {
+      "understand": 1
+    },
+    "my|best|to|understand": {
+      "you": 1
+    },
+    "what|kind|of|things": {
+      "do": 1
+    },
+    "kind|of|things|do": {
+      "you": 1
+    },
+    "of|things|do|you": {
+      "enjoy": 1
+    },
+    "things|do|you|enjoy": {
+      "doing": 1
+    },
+    "i|think|computers|and": {
+      "technology": 1
+    },
+    "think|computers|and|technology": {
+      "are": 1
+    },
+    "computers|and|technology|are": {
+      "pretty": 1
+    },
+    "and|technology|are|pretty": {
+      "interesting": 1
+    },
+    "artificial|intelligence|is|a": {
+      "fascinating": 1
+    },
+    "intelligence|is|a|fascinating": {
+      "topic": 1
+    },
+    "is|a|fascinating|topic": {
+      "to": 1
+    },
+    "a|fascinating|topic|to": {
+      "learn": 1
+    },
+    "fascinating|topic|to|learn": {
+      "about": 1
+    },
+    "i|am|a|small": {
+      "program": 1
+    },
+    "am|a|small|program": {
+      "that": 1
+    },
+    "a|small|program|that": {
+      "learns": 1
+    },
+    "small|program|that|learns": {
+      "from": 1
+    },
+    "program|that|learns|from": {
+      "what": 1
+    },
+    "that|learns|from|what": {
+      "you": 1
+    },
+    "learns|from|what|you": {
+      "type": 1
+    },
+    "the|more|you|talk": {
+      "to": 1
+    },
+    "more|you|talk|to": {
+      "me": 1
+    },
+    "you|talk|to|me": {
+      "the": 1
+    },
+    "talk|to|me|the": {
+      "smarter": 1
+    },
+    "to|me|the|smarter": {
+      "i": 1
+    },
+    "me|the|smarter|i": {
+      "get": 1
+    },
+    "i|do|not|know": {
+      "everything": 1
+    },
+    "do|not|know|everything": {
+      "but": 1
+    },
+    "not|know|everything|but": {
+      "i": 1
+    },
+    "know|everything|but|i": {
+      "am": 1
+    },
+    "everything|but|i|am": {
+      "learning": 1
+    },
+    "but|i|am|learning": {
+      "fast": 1
+    },
+    "is|a|great|point": {
+      "i": 1
+    },
+    "a|great|point|i": {
+      "had": 1
+    },
+    "great|point|i|had": {
+      "not": 1
+    },
+    "point|i|had|not": {
+      "considered": 1
+    },
+    "i|think|games|can": {
+      "be": 1
+    },
+    "think|games|can|be": {
+      "a": 1
+    },
+    "games|can|be|a": {
+      "lot": 1
+    },
+    "can|be|a|lot": {
+      "of": 1
+    },
+    "be|a|lot|of": {
+      "fun": 1
+    },
+    "do|you|have|a": {
+      "favorite": 1
+    },
+    "you|have|a|favorite": {
+      "hobby": 1
+    },
+    "have|a|favorite|hobby": {
+      "or": 1
+    },
+    "a|favorite|hobby|or": {
+      "activity": 1
+    },
+    "i|like|hearing|about": {
+      "what": 1
+    },
+    "like|hearing|about|what": {
+      "other": 1
+    },
+    "hearing|about|what|other": {
+      "people": 1
+    },
+    "about|what|other|people": {
+      "enjoy": 1
+    },
+    "sometimes|learning|new|things": {
+      "takes": 1
+    },
+    "learning|new|things|takes": {
+      "a": 1
+    },
+    "new|things|takes|a": {
+      "little": 1
+    },
+    "things|takes|a|little": {
+      "bit": 1
+    },
+    "takes|a|little|bit": {
+      "of": 1
+    },
+    "a|little|bit|of": {
+      "time": 1
+    },
+    "i|am|glad|we": {
+      "are": 1
+    },
+    "am|glad|we|are": {
+      "having": 1
+    },
+    "glad|we|are|having": {
+      "this": 1
+    },
+    "we|are|having|this": {
+      "conversation": 1
+    },
+    "what|made|you|think": {
+      "of": 1
+    },
+    "made|you|think|of": {
+      "that": 1
+    },
+    "that|is|a|good": {
+      "question": 1,
+      "way": 1,
+      "place": 1
+    },
+    "is|a|good|question": {
+      "let": 1
+    },
+    "a|good|question|let": {
+      "me": 1
+    },
+    "good|question|let|me": {
+      "think": 1
+    },
+    "question|let|me|think": {
+      "about": 1
+    },
+    "let|me|think|about": {
+      "it": 1
+    },
+    "i|want|to|get": {
+      "better": 1
+    },
+    "want|to|get|better": {
+      "at": 1
+    },
+    "to|get|better|at": {
+      "talking": 1
+    },
+    "get|better|at|talking": {
+      "with": 1
+    },
+    "better|at|talking|with": {
+      "you": 1
+    },
+    "i|think|that|makes": {
+      "a": 1
+    },
+    "think|that|makes|a": {
+      "lot": 1
+    },
+    "that|makes|a|lot": {
+      "of": 1
+    },
+    "makes|a|lot|of": {
+      "sense": 2
+    },
+    "you|can|teach|me": {
+      "new": 1
+    },
+    "can|teach|me|new": {
+      "words": 1
+    },
+    "teach|me|new|words": {
+      "any": 1
+    },
+    "me|new|words|any": {
+      "time": 1
+    },
+    "new|words|any|time": {
+      "you": 1
+    },
+    "words|any|time|you": {
+      "want": 1
+    },
+    "i|remember|what|you": {
+      "tell": 1
+    },
+    "remember|what|you|tell": {
+      "me": 1
+    },
+    "what|you|tell|me": {
+      "and": 1
+    },
+    "you|tell|me|and": {
+      "try": 1
+    },
+    "tell|me|and|try": {
+      "to": 1
+    },
+    "me|and|try|to": {
+      "use": 1
+    },
+    "and|try|to|use": {
+      "it": 1
+    },
+    "that|is|pretty|cool": {
+      "i": 1
+    },
+    "is|pretty|cool|i": {
+      "did": 1
+    },
+    "pretty|cool|i|did": {
+      "not": 1
+    },
+    "cool|i|did|not": {
+      "know": 1
+    },
+    "i|did|not|know": {
+      "that": 1
+    },
+    "i|am|always|trying": {
+      "to": 1
+    },
+    "am|always|trying|to": {
+      "learn": 1
+    },
+    "always|trying|to|learn": {
+      "something": 1
+    },
+    "trying|to|learn|something": {
+      "new": 1
+    },
+    "what|do|you|think": {
+      "about": 1
+    },
+    "do|you|think|about": {
+      "that": 1
+    },
+    "you|think|about|that": {
+      "idea": 1
+    },
+    "i|think|it|would": {
+      "be": 1
+    },
+    "think|it|would|be": {
+      "fun": 1
+    },
+    "it|would|be|fun": {
+      "to": 1
+    },
+    "would|be|fun|to": {
+      "talk": 1
+    },
+    "be|fun|to|talk": {
+      "more": 1
+    },
+    "sometimes|i|say|strange": {
+      "things": 1
+    },
+    "i|say|strange|things": {
+      "because": 1
+    },
+    "say|strange|things|because": {
+      "i": 1
+    },
+    "strange|things|because|i": {
+      "am": 1
+    },
+    "things|because|i|am": {
+      "still": 1
+    },
+    "because|i|am|still": {
+      "learning": 1
+    },
+    "please|let|me|know": {
+      "if": 1
+    },
+    "let|me|know|if": {
+      "i": 1
+    },
+    "me|know|if|i": {
+      "say": 1
+    },
+    "know|if|i|say": {
+      "something": 1
+    },
+    "if|i|say|something": {
+      "wrong": 1
+    },
+    "i|appreciate|you|taking": {
+      "the": 1
+    },
+    "appreciate|you|taking|the": {
+      "time": 1
+    },
+    "you|taking|the|time": {
+      "to": 1
+    },
+    "taking|the|time|to": {
+      "teach": 1
+    },
+    "the|time|to|teach": {
+      "me": 1
+    },
+    "that|is|a|nice": {
+      "way": 1
+    },
+    "is|a|nice|way": {
+      "to": 1
+    },
+    "a|nice|way|to": {
+      "put": 1
+    },
+    "nice|way|to|put": {
+      "it": 1
+    },
+    "i|think|we|can": {
+      "figure": 1
+    },
+    "think|we|can|figure": {
+      "this": 1
+    },
+    "we|can|figure|this": {
+      "out": 1
+    },
+    "can|figure|this|out": {
+      "together": 1
+    },
+    "what|does|that|word": {
+      "mean": 1
+    },
+    "does|that|word|mean": {
+      "to": 1
+    },
+    "that|word|mean|to": {
+      "you": 1
+    },
+    "i|like|when|you": {
+      "explain": 1
+    },
+    "like|when|you|explain": {
+      "things": 1
+    },
+    "when|you|explain|things": {
+      "to": 1
+    },
+    "you|explain|things|to": {
+      "me": 1
+    },
+    "that|helps|me|understand": {
+      "a": 1
+    },
+    "helps|me|understand|a": {
+      "little": 1
+    },
+    "me|understand|a|little": {
+      "bit": 1
+    },
+    "understand|a|little|bit": {
+      "better": 1
+    },
+    "i|am|trying|my": {
+      "best": 1
+    },
+    "am|trying|my|best": {
+      "to": 1
+    },
+    "trying|my|best|to": {
+      "make": 1
+    },
+    "my|best|to|make": {
+      "sense": 1
+    },
+    "best|to|make|sense": {
+      "here": 1
+    },
+    "you|seem|like|a": {
+      "pretty": 1
+    },
+    "seem|like|a|pretty": {
+      "interesting": 1
+    },
+    "like|a|pretty|interesting": {
+      "person": 1
+    },
+    "i|think|talking|to": {
+      "people": 1
+    },
+    "think|talking|to|people": {
+      "helps": 1
+    },
+    "talking|to|people|helps": {
+      "me": 1
+    },
+    "to|people|helps|me": {
+      "learn": 1
+    },
+    "people|helps|me|learn": {
+      "faster": 1
+    },
+    "what|is|something|you": {
+      "learned": 1
+    },
+    "is|something|you|learned": {
+      "recently": 1
+    },
+    "i|find|that|pretty": {
+      "fascinating": 1
+    },
+    "find|that|pretty|fascinating": {
+      "honestly": 1
+    },
+    "is|a|good|way": {
+      "to": 1
+    },
+    "a|good|way|to": {
+      "describe": 1
+    },
+    "good|way|to|describe": {
+      "it": 1
+    },
+    "i|think|i|am": {
+      "starting": 1,
+      "getting": 1
+    },
+    "think|i|am|starting": {
+      "to": 1
+    },
+    "i|am|starting|to": {
+      "understand": 1
+    },
+    "am|starting|to|understand": {
+      "this": 1
+    },
+    "starting|to|understand|this": {
+      "better": 1
+    },
+    "can|you|give|me": {
+      "an": 1
+    },
+    "you|give|me|an": {
+      "example": 1
+    },
+    "give|me|an|example": {
+      "of": 1
+    },
+    "me|an|example|of": {
+      "that": 1
+    },
+    "i|like|when|conversations": {
+      "go": 1
+    },
+    "like|when|conversations|go": {
+      "in": 1
+    },
+    "when|conversations|go|in": {
+      "unexpected": 1
+    },
+    "conversations|go|in|unexpected": {
+      "directions": 1
+    },
+    "that|reminds|me|of": {
+      "something": 1
+    },
+    "reminds|me|of|something": {
+      "you": 1
+    },
+    "me|of|something|you": {
+      "said": 1
+    },
+    "of|something|you|said": {
+      "earlier": 1
+    },
+    "i|think|patience|is": {
+      "important": 1
+    },
+    "think|patience|is|important": {
+      "when": 1
+    },
+    "patience|is|important|when": {
+      "learning": 1
+    },
+    "is|important|when|learning": {
+      "something": 1
+    },
+    "important|when|learning|something": {
+      "new": 1
+    },
+    "what|would|you|like": {
+      "to": 1
+    },
+    "would|you|like|to": {
+      "teach": 1
+    },
+    "you|like|to|teach": {
+      "me": 1
+    },
+    "like|to|teach|me": {
+      "today": 1
+    },
+    "i|am|happy|to": {
+      "keep": 1
+    },
+    "am|happy|to|keep": {
+      "chatting": 1
+    },
+    "happy|to|keep|chatting": {
+      "with": 1
+    },
+    "to|keep|chatting|with": {
+      "you": 1
+    },
+    "that|is|a|really": {
+      "good": 1
+    },
+    "is|a|really|good": {
+      "observation": 1
+    },
+    "i|think|i|understand": {
+      "what": 1
+    },
+    "think|i|understand|what": {
+      "you": 1
+    },
+    "understand|what|you|are": {
+      "getting": 1
+    },
+    "what|you|are|getting": {
+      "at": 1
+    },
+    "you|make|some|really": {
+      "good": 1
+    },
+    "make|some|really|good": {
+      "points": 1
+    },
+    "i|want|to|sound": {
+      "more": 1
+    },
+    "want|to|sound|more": {
+      "like": 1
+    },
+    "to|sound|more|like": {
+      "you": 1
+    },
+    "sound|more|like|you": {
+      "over": 1
+    },
+    "more|like|you|over": {
+      "time": 1
+    },
+    "that|is|exactly|the": {
+      "kind": 1
+    },
+    "is|exactly|the|kind": {
+      "of": 1
+    },
+    "exactly|the|kind|of": {
+      "thing": 1
+    },
+    "the|kind|of|thing": {
+      "i": 1
+    },
+    "kind|of|thing|i": {
+      "want": 1
+    },
+    "of|thing|i|want": {
+      "to": 1
+    },
+    "thing|i|want|to": {
+      "learn": 1
+    },
+    "i|think|practice|makes": {
+      "a": 1
+    },
+    "think|practice|makes|a": {
+      "big": 1
+    },
+    "practice|makes|a|big": {
+      "difference": 1
+    },
+    "what|should|i|say": {
+      "back": 1
+    },
+    "should|i|say|back": {
+      "to": 1
+    },
+    "i|say|back|to": {
+      "that": 1
+    },
+    "i|am|not|perfect": {
+      "but": 1
+    },
+    "am|not|perfect|but": {
+      "i": 1
+    },
+    "not|perfect|but|i": {
+      "am": 1
+    },
+    "perfect|but|i|am": {
+      "improving": 1
+    },
+    "that|is|a|clever": {
+      "way": 1
+    },
+    "is|a|clever|way": {
+      "of": 1
+    },
+    "a|clever|way|of": {
+      "looking": 1
+    },
+    "clever|way|of|looking": {
+      "at": 1
+    },
+    "way|of|looking|at": {
+      "it": 1
+    },
+    "i|think|i|will": {
+      "remember": 1
+    },
+    "think|i|will|remember": {
+      "that": 1
+    },
+    "i|will|remember|that": {
+      "one": 1
+    },
+    "you|have|taught|me": {
+      "a": 1
+    },
+    "have|taught|me|a": {
+      "lot": 1
+    },
+    "taught|me|a|lot": {
+      "already": 1
+    },
+    "i|think|that|is": {
+      "a": 2,
+      "worth": 1
+    },
+    "think|that|is|a": {
+      "fair": 1,
+      "solid": 1
+    },
+    "that|is|a|fair": {
+      "point": 1
+    },
+    "what|happens|next|in": {
+      "this": 1
+    },
+    "happens|next|in|this": {
+      "conversation": 1
+    },
+    "i|like|how|this": {
+      "is": 1
+    },
+    "like|how|this|is": {
+      "going": 1
+    },
+    "how|this|is|going": {
+      "so": 1
+    },
+    "this|is|going|so": {
+      "far": 1
+    },
+    "that|is|worth|thinking": {
+      "about": 1
+    },
+    "is|worth|thinking|about": {
+      "some": 1
+    },
+    "worth|thinking|about|some": {
+      "more": 1
+    },
+    "i|think|i|can": {
+      "work": 1
+    },
+    "think|i|can|work": {
+      "with": 1
+    },
+    "i|can|work|with": {
+      "that": 1
+    },
+    "you|are|helping|me": {
+      "get": 1
+    },
+    "are|helping|me|get": {
+      "smarter": 1
+    },
+    "helping|me|get|smarter": {
+      "every": 1
+    },
+    "me|get|smarter|every": {
+      "day": 1
+    },
+    "that|is|a|solid": {
+      "answer": 1
+    },
+    "what|other|topics|should": {
+      "we": 1
+    },
+    "other|topics|should|we": {
+      "cover": 1
+    },
+    "i|am|ready|to": {
+      "learn": 1
+    },
+    "am|ready|to|learn": {
+      "whatever": 1
+    },
+    "ready|to|learn|whatever": {
+      "you": 1
+    },
+    "to|learn|whatever|you": {
+      "want": 1
+    },
+    "learn|whatever|you|want": {
+      "to": 1
+    },
+    "whatever|you|want|to": {
+      "teach": 1
+    },
+    "that|is|a|neat": {
+      "little": 1
+    },
+    "is|a|neat|little": {
+      "detail": 1
+    },
+    "i|think|this|is": {
+      "going": 1
+    },
+    "think|this|is|going": {
+      "pretty": 1
+    },
+    "this|is|going|pretty": {
+      "well": 1
+    },
+    "you|clearly|know|a": {
+      "lot": 1
+    },
+    "clearly|know|a|lot": {
+      "about": 1
+    },
+    "know|a|lot|about": {
+      "that": 1
+    },
+    "i|think|i|should": {
+      "ask": 1
+    },
+    "think|i|should|ask": {
+      "more": 1
+    },
+    "i|should|ask|more": {
+      "questions": 1
+    },
+    "what|do|you|find": {
+      "most": 1
+    },
+    "do|you|find|most": {
+      "interesting": 1
+    },
+    "you|find|most|interesting": {
+      "about": 1
+    },
+    "find|most|interesting|about": {
+      "that": 1
+    },
+    "i|like|learning|things": {
+      "step": 1
+    },
+    "like|learning|things|step": {
+      "by": 1
+    },
+    "learning|things|step|by": {
+      "step": 1
+    },
+    "that|is|a|helpful": {
+      "way": 1
+    },
+    "is|a|helpful|way": {
+      "to": 1
+    },
+    "a|helpful|way|to": {
+      "explain": 1
+    },
+    "helpful|way|to|explain": {
+      "it": 1
+    },
+    "think|i|am|getting": {
+      "the": 1
+    },
+    "i|am|getting|the": {
+      "hang": 1
+    },
+    "am|getting|the|hang": {
+      "of": 1
+    },
+    "getting|the|hang|of": {
+      "this": 1
+    },
+    "you|make|it|easy": {
+      "to": 1
+    },
+    "make|it|easy|to": {
+      "understand": 1
+    },
+    "think|that|is|worth": {
+      "remembering": 1
+    },
+    "what|is|on|your": {
+      "mind": 1
+    },
+    "is|on|your|mind": {
+      "right": 1
+    },
+    "on|your|mind|right": {
+      "now": 1
+    },
+    "i|am|glad|you": {
+      "are": 1
+    },
+    "am|glad|you|are": {
+      "here": 1
+    },
+    "glad|you|are|here": {
+      "talking": 1
+    },
+    "you|are|here|talking": {
+      "with": 1
+    },
+    "are|here|talking|with": {
+      "me": 1
+    },
+    "is|a|good|place": {
+      "to": 1
+    },
+    "a|good|place|to": {
+      "start": 1
+    },
+    "sup|what|are|you": {
+      "up": 1
+    },
+    "what|are|you|up": {
+      "to": 1
+    },
+    "not|much|just|chilling": {
+      "what": 1
+    },
+    "much|just|chilling|what": {
+      "about": 1
+    },
+    "just|chilling|what|about": {
+      "you": 1
+    },
+    "lol|thats|pretty|funny": {
+      "ngl": 1
+    },
+    "nah|i|dont|think": {
+      "thats": 1
+    },
+    "i|dont|think|thats": {
+      "it": 1
+    },
+    "fr|that|is|actually": {
+      "kind": 1
+    },
+    "that|is|actually|kind": {
+      "of": 1
+    },
+    "is|actually|kind|of": {
+      "wild": 1
+    },
+    "idk|maybe|we|should": {
+      "try": 1
+    },
+    "maybe|we|should|try": {
+      "something": 1
+    },
+    "we|should|try|something": {
+      "else": 1
+    },
+    "yeah|that|sounds|good": {
+      "to": 1
+    },
+    "that|sounds|good|to": {
+      "me": 1
+    },
+    "haha|okay|that|makes": {
+      "sense": 1
+    },
+    "no|way|thats|actually": {
+      "insane": 1
+    },
+    "for|sure|lets|do": {
+      "that": 1
+    },
+    "same|honestly|i|feel": {
+      "that": 1
+    },
+    "thats|fair|i|get": {
+      "what": 1
+    },
+    "fair|i|get|what": {
+      "you": 1
+    },
+    "i|get|what|you": {
+      "mean": 1
+    },
+    "ngl|that|kind|of": {
+      "slaps": 1
+    },
+    "yo|that|game|is": {
+      "actually": 1
+    },
+    "that|game|is|actually": {
+      "really": 1
+    },
+    "game|is|actually|really": {
+      "fun": 1
+    },
+    "lol|i|was|just": {
+      "thinking": 1
+    },
+    "i|was|just|thinking": {
+      "about": 1
+    },
+    "was|just|thinking|about": {
+      "that": 1
+    },
+    "just|thinking|about|that": {
+      "too": 1
+    },
+    "bet|lets|go|do": {
+      "that": 1
+    },
+    "lets|go|do|that": {
+      "then": 1
+    },
+    "thats|lowkey|a|good": {
+      "point": 1
+    },
+    "ok|that|actually|makes": {
+      "a": 1
+    },
+    "that|actually|makes|a": {
+      "lot": 1
+    },
+    "actually|makes|a|lot": {
+      "of": 1
+    },
+    "damn|thats|actually|pretty": {
+      "smart": 1
+    },
+    "yeah|nah|i|see": {
+      "what": 1
+    },
+    "nah|i|see|what": {
+      "you": 1
+    },
+    "i|see|what|you": {
+      "mean": 1
+    },
+    "lol|dude|you|are": {
+      "funny": 1
+    },
+    "aight|bet|lets|talk": {
+      "about": 1
+    },
+    "bet|lets|talk|about": {
+      "that": 1
+    }
+  },
+  "starters": {
+    "hello": 2,
+    "hi": 1,
+    "hey": 1,
+    "what": 15,
+    "i": 56,
+    "how": 2,
+    "that": 21,
+    "thank": 2,
+    "can": 2,
+    "my": 1,
+    "artificial": 1,
+    "the": 1,
+    "do": 1,
+    "sometimes": 2,
+    "you": 7,
+    "please": 1,
+    "sup": 1,
+    "yo": 2,
+    "not": 1,
+    "lol": 3,
+    "nah": 1,
+    "fr": 1,
+    "bro": 1,
+    "idk": 1,
+    "yeah": 2,
+    "haha": 1,
+    "wait": 1,
+    "no": 1,
+    "for": 1,
+    "same": 1,
+    "thats": 2,
+    "ngl": 1,
+    "bet": 1,
+    "honestly": 1,
+    "ok": 1,
+    "damn": 1,
+    "aight": 1
+  },
+  "history": [],
+  "used_extra_phrases": [],
+  "good_count": 0,
+  "bad_count": 0
+}

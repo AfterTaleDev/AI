@@ -1,0 +1,8 @@
+Entry number 001: 
+ 
+ > SYSTEM: GLITCH_OS
+____________________
+ 
+ > STATUS: STABLE
+
+ > DAMAGE: MINIMAL

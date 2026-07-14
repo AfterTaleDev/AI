@@ -1,0 +1,72 @@
+─────────────────────────────────────────
+  GLITCH_OS  //  v4.0
+─────────────────────────────────────────
+
+SETUP
+─────
+  pip install pygame
+  python glitch_os.py
+
+
+FOLDER STRUCTURE
+─────────────────────────────────────────
+  glitch_os.py
+  log/
+      page_1.txt     ← one dialogue page per file
+      page_2.txt
+  music/
+      song.wav       ← .wav  .ogg  .mp3  .flac
+  images/
+      photo.png      ← .png  .jpg  .jpeg  .bmp  .gif
+
+
+APPS
+─────────────────────────────────────────
+  LOG        → dialogue/story reader with typewriter effect
+  MUSIC      → audio player with visualiser and track list
+  CALC       → calculator (keyboard + mouse, type any expression)
+  IMGS       → image viewer (zoom with scroll, pan with drag)
+
+
+CONTROLS
+─────────────────────────────────────────
+Desktop
+  Double-click icon      → open app
+  ESC                    → quit
+
+All windows
+  Drag title bar         → move
+  Drag bottom/right edge → resize
+  _ button (title bar)   → minimize to taskbar
+  X button               → close
+  Taskbar button         → toggle show/hide (lit = open, dim = hidden)
+
+LOG
+  NEXT / LAST            → navigate pages (typewriter)
+
+MUSIC
+  Click track row        → play  (click again = pause/resume)
+  PREV / NEXT            → skip
+  LOOP                   → loop current track  (LOOP* = active)
+  Progress bar           → click or drag to scrub
+
+CALC
+  Click buttons          → input
+  Keyboard               → type expressions directly
+  Enter                  → evaluate
+  Backspace              → delete last char
+  ESC (while focused)    → clear
+
+IMGS
+  PREV / NEXT            → browse images
+  Scroll wheel           → zoom in/out
+  Click + drag           → pan when zoomed
+
+
+WINDOW ANIMATION
+─────────────────────────────────────────
+Windows "unroll" downward when opening and
+collapse back up when closing — the height
+shrinks to 0 smoothly so nothing pops.
+
+─────────────────────────────────────────

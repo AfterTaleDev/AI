@@ -1,0 +1,5 @@
+Entry Log 3:
+____________
+
+> Systems are stable as usual but some apps have stopped working as intended
+> Damage: Minor

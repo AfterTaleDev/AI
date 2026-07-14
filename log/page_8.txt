@@ -1,0 +1,9 @@
+Entry log 8
+PROJECT C-2
+Author ???
+
+> Attempt 1 of making the new core blueprints without gaster
+
+> It was succesful for a bit until i noticed a flaw that would make it break apart worse then v1
+
+> End of log 8
